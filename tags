@@ -1,0 +1,985 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A2DP_CODEC_ATRAC	src/a2dp-codecs.h	34;"	d
+A2DP_CODEC_MPEG12	src/a2dp-codecs.h	32;"	d
+A2DP_CODEC_MPEG24	src/a2dp-codecs.h	33;"	d
+A2DP_CODEC_SBC	src/a2dp-codecs.h	31;"	d
+A2DP_CODEC_VENDOR	src/a2dp-codecs.h	35;"	d
+A2DP_CODEC_VENDOR_APTX	src/a2dp-codecs.h	38;"	d
+A2DP_CODEC_VENDOR_APTX_HD	src/a2dp-codecs.h	39;"	d
+A2DP_CODEC_VENDOR_LDAC	src/a2dp-codecs.h	40;"	d
+AACENCODER_LIB_VERSION	src/io.c	30;"	d	file:
+AAC_CHANNELS_1	src/a2dp-codecs.h	117;"	d
+AAC_CHANNELS_2	src/a2dp-codecs.h	118;"	d
+AAC_GET_BITRATE	src/a2dp-codecs.h	120;"	d
+AAC_GET_FREQUENCY	src/a2dp-codecs.h	122;"	d
+AAC_INIT_BITRATE	src/a2dp-codecs.h	136;"	d
+AAC_INIT_FREQUENCY	src/a2dp-codecs.h	140;"	d
+AAC_OBJECT_TYPE_MPEG2_AAC_LC	src/a2dp-codecs.h	99;"	d
+AAC_OBJECT_TYPE_MPEG4_AAC_LC	src/a2dp-codecs.h	100;"	d
+AAC_OBJECT_TYPE_MPEG4_AAC_LTP	src/a2dp-codecs.h	101;"	d
+AAC_OBJECT_TYPE_MPEG4_AAC_SCA	src/a2dp-codecs.h	102;"	d
+AAC_SAMPLING_FREQ_11025	src/a2dp-codecs.h	105;"	d
+AAC_SAMPLING_FREQ_12000	src/a2dp-codecs.h	106;"	d
+AAC_SAMPLING_FREQ_16000	src/a2dp-codecs.h	107;"	d
+AAC_SAMPLING_FREQ_22050	src/a2dp-codecs.h	108;"	d
+AAC_SAMPLING_FREQ_24000	src/a2dp-codecs.h	109;"	d
+AAC_SAMPLING_FREQ_32000	src/a2dp-codecs.h	110;"	d
+AAC_SAMPLING_FREQ_44100	src/a2dp-codecs.h	111;"	d
+AAC_SAMPLING_FREQ_48000	src/a2dp-codecs.h	112;"	d
+AAC_SAMPLING_FREQ_64000	src/a2dp-codecs.h	113;"	d
+AAC_SAMPLING_FREQ_8000	src/a2dp-codecs.h	104;"	d
+AAC_SAMPLING_FREQ_88200	src/a2dp-codecs.h	114;"	d
+AAC_SAMPLING_FREQ_96000	src/a2dp-codecs.h	115;"	d
+AAC_SET_BITRATE	src/a2dp-codecs.h	124;"	d
+AAC_SET_FREQUENCY	src/a2dp-codecs.h	130;"	d
+APTX_CHANNEL_MODE_MONO	src/a2dp-codecs.h	148;"	d
+APTX_CHANNEL_MODE_STEREO	src/a2dp-codecs.h	147;"	d
+APTX_CODEC_ID	src/a2dp-codecs.h	145;"	d
+APTX_HD_CHANNEL_MODE_MONO	src/a2dp-codecs.h	159;"	d
+APTX_HD_CHANNEL_MODE_STEREO	src/a2dp-codecs.h	158;"	d
+APTX_HD_CODEC_ID	src/a2dp-codecs.h	156;"	d
+APTX_HD_SAMPLING_FREQ_16000	src/a2dp-codecs.h	161;"	d
+APTX_HD_SAMPLING_FREQ_32000	src/a2dp-codecs.h	162;"	d
+APTX_HD_SAMPLING_FREQ_44100	src/a2dp-codecs.h	163;"	d
+APTX_HD_SAMPLING_FREQ_48000	src/a2dp-codecs.h	164;"	d
+APTX_HD_VENDOR_ID	src/a2dp-codecs.h	155;"	d
+APTX_SAMPLING_FREQ_16000	src/a2dp-codecs.h	150;"	d
+APTX_SAMPLING_FREQ_32000	src/a2dp-codecs.h	151;"	d
+APTX_SAMPLING_FREQ_44100	src/a2dp-codecs.h	152;"	d
+APTX_SAMPLING_FREQ_48000	src/a2dp-codecs.h	153;"	d
+APTX_VENDOR_ID	src/a2dp-codecs.h	144;"	d
+ARRAYSIZE	src/shared/defs.h	16;"	d
+AT_TYPE_CMD	src/at.h	?^	AT_TYPE_CMD,$?;"	e	enum:bt_at_type
+AT_TYPE_CMD_GET	src/at.h	?^	AT_TYPE_CMD_GET,$?;"	e	enum:bt_at_type
+AT_TYPE_CMD_SET	src/at.h	?^	AT_TYPE_CMD_SET,$?;"	e	enum:bt_at_type
+AT_TYPE_CMD_TEST	src/at.h	?^	AT_TYPE_CMD_TEST,$?;"	e	enum:bt_at_type
+AT_TYPE_RAW	src/at.h	?^	AT_TYPE_RAW,$?;"	e	enum:bt_at_type
+AT_TYPE_RESP	src/at.h	?^	AT_TYPE_RESP,$?;"	e	enum:bt_at_type
+BA_COMMAND_LIST_DEVICES	src/shared/ctl-proto.h	?^	BA_COMMAND_LIST_DEVICES,$?;"	e	enum:ba_command
+BA_COMMAND_LIST_TRANSPORTS	src/shared/ctl-proto.h	?^	BA_COMMAND_LIST_TRANSPORTS,$?;"	e	enum:ba_command
+BA_COMMAND_PCM_CLOSE	src/shared/ctl-proto.h	?^	BA_COMMAND_PCM_CLOSE,$?;"	e	enum:ba_command
+BA_COMMAND_PCM_DRAIN	src/shared/ctl-proto.h	?^	BA_COMMAND_PCM_DRAIN,$?;"	e	enum:ba_command
+BA_COMMAND_PCM_OPEN	src/shared/ctl-proto.h	?^	BA_COMMAND_PCM_OPEN,$?;"	e	enum:ba_command
+BA_COMMAND_PCM_PAUSE	src/shared/ctl-proto.h	?^	BA_COMMAND_PCM_PAUSE,$?;"	e	enum:ba_command
+BA_COMMAND_PCM_RESUME	src/shared/ctl-proto.h	?^	BA_COMMAND_PCM_RESUME,$?;"	e	enum:ba_command
+BA_COMMAND_PING	src/shared/ctl-proto.h	?^	BA_COMMAND_PING,$?;"	e	enum:ba_command
+BA_COMMAND_RFCOMM_SEND	src/shared/ctl-proto.h	?^	BA_COMMAND_RFCOMM_SEND,$?;"	e	enum:ba_command
+BA_COMMAND_SUBSCRIBE	src/shared/ctl-proto.h	?^	BA_COMMAND_SUBSCRIBE,$?;"	e	enum:ba_command
+BA_COMMAND_TRANSPORT_GET	src/shared/ctl-proto.h	?^	BA_COMMAND_TRANSPORT_GET,$?;"	e	enum:ba_command
+BA_COMMAND_TRANSPORT_SET_DELAY	src/shared/ctl-proto.h	?^	BA_COMMAND_TRANSPORT_SET_DELAY,$?;"	e	enum:ba_command
+BA_COMMAND_TRANSPORT_SET_VOLUME	src/shared/ctl-proto.h	?^	BA_COMMAND_TRANSPORT_SET_VOLUME,$?;"	e	enum:ba_command
+BA_EVENT_TRANSPORT_ADDED	src/shared/ctl-proto.h	?^	BA_EVENT_TRANSPORT_ADDED   = 1 << 0,$?;"	e	enum:ba_event
+BA_EVENT_TRANSPORT_CHANGED	src/shared/ctl-proto.h	?^	BA_EVENT_TRANSPORT_CHANGED = 1 << 1,$?;"	e	enum:ba_event
+BA_EVENT_TRANSPORT_REMOVED	src/shared/ctl-proto.h	?^	BA_EVENT_TRANSPORT_REMOVED = 1 << 2,$?;"	e	enum:ba_event
+BA_EVENT_UPDATE_BATTERY	src/shared/ctl-proto.h	?^	BA_EVENT_UPDATE_BATTERY    = 1 << 3,$?;"	e	enum:ba_event
+BA_EVENT_UPDATE_VOLUME	src/shared/ctl-proto.h	?^	BA_EVENT_UPDATE_VOLUME     = 1 << 4,$?;"	e	enum:ba_event
+BA_PCM_STREAM_CAPTURE	src/shared/ctl-proto.h	?^	BA_PCM_STREAM_CAPTURE,$?;"	e	enum:ba_pcm_stream
+BA_PCM_STREAM_DUPLEX	src/shared/ctl-proto.h	?^	BA_PCM_STREAM_DUPLEX,$?;"	e	enum:ba_pcm_stream
+BA_PCM_STREAM_PLAYBACK	src/shared/ctl-proto.h	?^	BA_PCM_STREAM_PLAYBACK,$?;"	e	enum:ba_pcm_stream
+BA_PCM_TYPE_A2DP	src/shared/ctl-proto.h	?^	BA_PCM_TYPE_A2DP,$?;"	e	enum:ba_pcm_type
+BA_PCM_TYPE_NULL	src/shared/ctl-proto.h	?^	BA_PCM_TYPE_NULL = 0,$?;"	e	enum:ba_pcm_type
+BA_PCM_TYPE_SCO	src/shared/ctl-proto.h	?^	BA_PCM_TYPE_SCO,$?;"	e	enum:ba_pcm_type
+BA_STATUS_CODE_DEVICE_BUSY	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_DEVICE_BUSY,$?;"	e	enum:ba_status_code
+BA_STATUS_CODE_DEVICE_NOT_FOUND	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_DEVICE_NOT_FOUND,$?;"	e	enum:ba_status_code
+BA_STATUS_CODE_ERROR_UNKNOWN	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_ERROR_UNKNOWN,$?;"	e	enum:ba_status_code
+BA_STATUS_CODE_FORBIDDEN	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_FORBIDDEN,$?;"	e	enum:ba_status_code
+BA_STATUS_CODE_PONG	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_PONG,$?;"	e	enum:ba_status_code
+BA_STATUS_CODE_STREAM_NOT_FOUND	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_STREAM_NOT_FOUND,$?;"	e	enum:ba_status_code
+BA_STATUS_CODE_SUCCESS	src/shared/ctl-proto.h	?^	BA_STATUS_CODE_SUCCESS = 0,$?;"	e	enum:ba_status_code
+BLUEALSA_A2DPCODECS_H_	src/a2dp-codecs.h	27;"	d
+BLUEALSA_A2DPRTP_H_	src/a2dp-rtp.h	12;"	d
+BLUEALSA_AT_H_	src/at.h	13;"	d
+BLUEALSA_BLUEALSA_H	src/bluealsa.h	12;"	d
+BLUEALSA_BLUEZA2DP_H_	src/bluez-a2dp.h	12;"	d
+BLUEALSA_BLUEZIFACE_H_	src/bluez-iface.h	12;"	d
+BLUEALSA_BLUEZ_H_	src/bluez.h	12;"	d
+BLUEALSA_CRL_PROTO_VERSION	src/shared/ctl-proto.h	24;"	d
+BLUEALSA_CTL_H_	src/ctl.h	12;"	d
+BLUEALSA_HFP_H_	src/hfp.h	13;"	d
+BLUEALSA_IO_H_	src/io.h	12;"	d
+BLUEALSA_LOGTIME	src/shared/log.h	22;"	d
+BLUEALSA_LOGTIME	src/shared/log.h	24;"	d
+BLUEALSA_MAX_CLIENTS	src/bluealsa.h	33;"	d
+BLUEALSA_RFCOMM_H_	src/rfcomm.h	12;"	d
+BLUEALSA_RUN_STATE_DIR	src/shared/ctl-proto.h	22;"	d
+BLUEALSA_SHARED_CTLCLIENT_H_	src/shared/ctl-client.h	12;"	d
+BLUEALSA_SHARED_CTLPROTO_H_	src/shared/ctl-proto.h	12;"	d
+BLUEALSA_SHARED_DEFS_H_	src/shared/defs.h	12;"	d
+BLUEALSA_SHARED_FFB_H_	src/shared/ffb.h	12;"	d
+BLUEALSA_SHARED_LOG_H_	src/shared/log.h	12;"	d
+BLUEALSA_SHARED_RT_H_	src/shared/rt.h	12;"	d
+BLUEALSA_TRANSPORT_H_	src/transport.h	12;"	d
+BLUEALSA_UTILS_H_	src/utils.h	12;"	d
+BLUETOOTH_PROFILE_A2DP_SINK	src/bluez.h	?^	BLUETOOTH_PROFILE_A2DP_SINK,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_PROFILE_A2DP_SOURCE	src/bluez.h	?^	BLUETOOTH_PROFILE_A2DP_SOURCE,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_PROFILE_HFP_AG	src/bluez.h	?^	BLUETOOTH_PROFILE_HFP_AG,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_PROFILE_HFP_HF	src/bluez.h	?^	BLUETOOTH_PROFILE_HFP_HF,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_PROFILE_HSP_AG	src/bluez.h	?^	BLUETOOTH_PROFILE_HSP_AG,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_PROFILE_HSP_HS	src/bluez.h	?^	BLUETOOTH_PROFILE_HSP_HS,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_PROFILE_NULL	src/bluez.h	?^	BLUETOOTH_PROFILE_NULL = 0,$?;"	e	enum:bluetooth_profile
+BLUETOOTH_UUID_A2DP_SINK	src/bluez.h	16;"	d
+BLUETOOTH_UUID_A2DP_SOURCE	src/bluez.h	15;"	d
+BLUETOOTH_UUID_HFP_AG	src/bluez.h	20;"	d
+BLUETOOTH_UUID_HFP_HF	src/bluez.h	19;"	d
+BLUETOOTH_UUID_HSP_AG	src/bluez.h	18;"	d
+BLUETOOTH_UUID_HSP_HS	src/bluez.h	17;"	d
+BLUEZ_A2DP_SINK	src/bluez-a2dp.h	?^	BLUEZ_A2DP_SINK,$?;"	e	enum:bluez_a2dp_dir
+BLUEZ_A2DP_SOURCE	src/bluez-a2dp.h	?^	BLUEZ_A2DP_SOURCE,$?;"	e	enum:bluez_a2dp_dir
+CTL_ELEM_TYPE_BATTERY	src/asound/bluealsa-ctl.c	?^	CTL_ELEM_TYPE_BATTERY,$?;"	e	enum:ctl_elem_type	file:
+CTL_ELEM_TYPE_SWITCH	src/asound/bluealsa-ctl.c	?^	CTL_ELEM_TYPE_SWITCH,$?;"	e	enum:ctl_elem_type	file:
+CTL_ELEM_TYPE_VOLUME	src/asound/bluealsa-ctl.c	?^	CTL_ELEM_TYPE_VOLUME,$?;"	e	enum:ctl_elem_type	file:
+CTL_IDX_EVT	src/bluealsa.h	37;"	d
+CTL_IDX_SRV	src/bluealsa.h	36;"	d
+HFP_AG_FEAT_CODEC	src/hfp.h	46;"	d
+HFP_AG_FEAT_ECC	src/hfp.h	44;"	d
+HFP_AG_FEAT_ECNR	src/hfp.h	38;"	d
+HFP_AG_FEAT_ECS	src/hfp.h	43;"	d
+HFP_AG_FEAT_EERC	src/hfp.h	45;"	d
+HFP_AG_FEAT_ESOC	src/hfp.h	48;"	d
+HFP_AG_FEAT_HFIND	src/hfp.h	47;"	d
+HFP_AG_FEAT_REJECT	src/hfp.h	42;"	d
+HFP_AG_FEAT_RING	src/hfp.h	40;"	d
+HFP_AG_FEAT_TWC	src/hfp.h	37;"	d
+HFP_AG_FEAT_VREC	src/hfp.h	39;"	d
+HFP_AG_FEAT_VTAG	src/hfp.h	41;"	d
+HFP_CC_BCS_SET	src/hfp.h	?^	HFP_CC_BCS_SET,$?;"	e	enum:hfp_state
+HFP_CC_BCS_SET_OK	src/hfp.h	?^	HFP_CC_BCS_SET_OK,$?;"	e	enum:hfp_state
+HFP_CC_CONNECTED	src/hfp.h	?^	HFP_CC_CONNECTED,$?;"	e	enum:hfp_state
+HFP_CODEC_CVSD	src/hfp.h	17;"	d
+HFP_CODEC_MSBC	src/hfp.h	18;"	d
+HFP_CODEC_UNDEFINED	src/hfp.h	16;"	d
+HFP_CONNECTED	src/hfp.h	?^	HFP_CONNECTED,$?;"	e	enum:hfp_state
+HFP_DISCONNECTED	src/hfp.h	?^	HFP_DISCONNECTED,$?;"	e	enum:hfp_state
+HFP_HF_FEAT_CLI	src/hfp.h	53;"	d
+HFP_HF_FEAT_CODEC	src/hfp.h	58;"	d
+HFP_HF_FEAT_ECC	src/hfp.h	57;"	d
+HFP_HF_FEAT_ECNR	src/hfp.h	51;"	d
+HFP_HF_FEAT_ECS	src/hfp.h	56;"	d
+HFP_HF_FEAT_ESOC	src/hfp.h	60;"	d
+HFP_HF_FEAT_HFIND	src/hfp.h	59;"	d
+HFP_HF_FEAT_TWC	src/hfp.h	52;"	d
+HFP_HF_FEAT_VOLUME	src/hfp.h	55;"	d
+HFP_HF_FEAT_VREC	src/hfp.h	54;"	d
+HFP_IND_BATTCHG	src/hfp.h	?^	HFP_IND_BATTCHG,$?;"	e	enum:hfp_ind
+HFP_IND_CALL	src/hfp.h	?^	HFP_IND_CALL,$?;"	e	enum:hfp_ind
+HFP_IND_CALLHELD	src/hfp.h	?^	HFP_IND_CALLHELD,$?;"	e	enum:hfp_ind
+HFP_IND_CALLHELD_HOLD	src/hfp.h	124;"	d
+HFP_IND_CALLHELD_NONE	src/hfp.h	120;"	d
+HFP_IND_CALLHELD_SWAP	src/hfp.h	122;"	d
+HFP_IND_CALLSETUP	src/hfp.h	?^	HFP_IND_CALLSETUP,$?;"	e	enum:hfp_ind
+HFP_IND_CALLSETUP_IN	src/hfp.h	114;"	d
+HFP_IND_CALLSETUP_NONE	src/hfp.h	112;"	d
+HFP_IND_CALLSETUP_OUT	src/hfp.h	116;"	d
+HFP_IND_CALLSETUP_OUT_ALERT	src/hfp.h	118;"	d
+HFP_IND_CALL_ACTIVE	src/hfp.h	110;"	d
+HFP_IND_CALL_NONE	src/hfp.h	108;"	d
+HFP_IND_NULL	src/hfp.h	?^	HFP_IND_NULL = 0,$?;"	e	enum:hfp_ind
+HFP_IND_ROAM	src/hfp.h	?^	HFP_IND_ROAM,$?;"	e	enum:hfp_ind
+HFP_IND_ROAM_ACTIVE	src/hfp.h	128;"	d
+HFP_IND_ROAM_NONE	src/hfp.h	126;"	d
+HFP_IND_SERVICE	src/hfp.h	?^	HFP_IND_SERVICE,$?;"	e	enum:hfp_ind
+HFP_IND_SERVICE_ACTIVE	src/hfp.h	106;"	d
+HFP_IND_SERVICE_NONE	src/hfp.h	104;"	d
+HFP_IND_SIGNAL	src/hfp.h	?^	HFP_IND_SIGNAL,$?;"	e	enum:hfp_ind
+HFP_SLC_BAC_SET_OK	src/hfp.h	?^	HFP_SLC_BAC_SET_OK,$?;"	e	enum:hfp_state
+HFP_SLC_BRSF_SET	src/hfp.h	?^	HFP_SLC_BRSF_SET,$?;"	e	enum:hfp_state
+HFP_SLC_BRSF_SET_OK	src/hfp.h	?^	HFP_SLC_BRSF_SET_OK,$?;"	e	enum:hfp_state
+HFP_SLC_CIND_GET	src/hfp.h	?^	HFP_SLC_CIND_GET,$?;"	e	enum:hfp_state
+HFP_SLC_CIND_GET_OK	src/hfp.h	?^	HFP_SLC_CIND_GET_OK,$?;"	e	enum:hfp_state
+HFP_SLC_CIND_TEST	src/hfp.h	?^	HFP_SLC_CIND_TEST,$?;"	e	enum:hfp_state
+HFP_SLC_CIND_TEST_OK	src/hfp.h	?^	HFP_SLC_CIND_TEST_OK,$?;"	e	enum:hfp_state
+HFP_SLC_CMER_SET_OK	src/hfp.h	?^	HFP_SLC_CMER_SET_OK,$?;"	e	enum:hfp_state
+HFP_SLC_CONNECTED	src/hfp.h	?^	HFP_SLC_CONNECTED,$?;"	e	enum:hfp_state
+LDAC_CHANNEL_MODE_DUAL_CHANNEL	src/a2dp-codecs.h	170;"	d
+LDAC_CHANNEL_MODE_MONO	src/a2dp-codecs.h	169;"	d
+LDAC_CHANNEL_MODE_STEREO	src/a2dp-codecs.h	171;"	d
+LDAC_CODEC_ID	src/a2dp-codecs.h	167;"	d
+LDAC_SAMPLING_FREQ_176400	src/a2dp-codecs.h	177;"	d
+LDAC_SAMPLING_FREQ_192000	src/a2dp-codecs.h	178;"	d
+LDAC_SAMPLING_FREQ_44100	src/a2dp-codecs.h	173;"	d
+LDAC_SAMPLING_FREQ_48000	src/a2dp-codecs.h	174;"	d
+LDAC_SAMPLING_FREQ_88200	src/a2dp-codecs.h	175;"	d
+LDAC_SAMPLING_FREQ_96000	src/a2dp-codecs.h	176;"	d
+LDAC_VENDOR_ID	src/a2dp-codecs.h	166;"	d
+MPEG_BIT_RATE_112000	src/a2dp-codecs.h	89;"	d
+MPEG_BIT_RATE_128000	src/a2dp-codecs.h	88;"	d
+MPEG_BIT_RATE_160000	src/a2dp-codecs.h	87;"	d
+MPEG_BIT_RATE_192000	src/a2dp-codecs.h	86;"	d
+MPEG_BIT_RATE_224000	src/a2dp-codecs.h	85;"	d
+MPEG_BIT_RATE_256000	src/a2dp-codecs.h	84;"	d
+MPEG_BIT_RATE_32000	src/a2dp-codecs.h	96;"	d
+MPEG_BIT_RATE_320000	src/a2dp-codecs.h	83;"	d
+MPEG_BIT_RATE_40000	src/a2dp-codecs.h	95;"	d
+MPEG_BIT_RATE_48000	src/a2dp-codecs.h	94;"	d
+MPEG_BIT_RATE_56000	src/a2dp-codecs.h	93;"	d
+MPEG_BIT_RATE_64000	src/a2dp-codecs.h	92;"	d
+MPEG_BIT_RATE_80000	src/a2dp-codecs.h	91;"	d
+MPEG_BIT_RATE_96000	src/a2dp-codecs.h	90;"	d
+MPEG_BIT_RATE_FREE	src/a2dp-codecs.h	97;"	d
+MPEG_BIT_RATE_VBR	src/a2dp-codecs.h	82;"	d
+MPEG_CHANNEL_MODE_DUAL_CHANNEL	src/a2dp-codecs.h	67;"	d
+MPEG_CHANNEL_MODE_JOINT_STEREO	src/a2dp-codecs.h	69;"	d
+MPEG_CHANNEL_MODE_MONO	src/a2dp-codecs.h	66;"	d
+MPEG_CHANNEL_MODE_STEREO	src/a2dp-codecs.h	68;"	d
+MPEG_LAYER_MP1	src/a2dp-codecs.h	71;"	d
+MPEG_LAYER_MP2	src/a2dp-codecs.h	72;"	d
+MPEG_LAYER_MP3	src/a2dp-codecs.h	73;"	d
+MPEG_SAMPLING_FREQ_16000	src/a2dp-codecs.h	75;"	d
+MPEG_SAMPLING_FREQ_22050	src/a2dp-codecs.h	76;"	d
+MPEG_SAMPLING_FREQ_24000	src/a2dp-codecs.h	77;"	d
+MPEG_SAMPLING_FREQ_32000	src/a2dp-codecs.h	78;"	d
+MPEG_SAMPLING_FREQ_44100	src/a2dp-codecs.h	79;"	d
+MPEG_SAMPLING_FREQ_48000	src/a2dp-codecs.h	80;"	d
+PTHREAD_CLEANUP	src/shared/defs.h	20;"	d
+RFCOMM_SLC_RETRIES	src/rfcomm.h	19;"	d
+RFCOMM_SLC_TIMEOUT	src/rfcomm.h	21;"	d
+RTP_HEADER_LEN	src/a2dp-rtp.h	40;"	d
+SBC_ALLOCATION_LOUDNESS	src/a2dp-codecs.h	61;"	d
+SBC_ALLOCATION_SNR	src/a2dp-codecs.h	60;"	d
+SBC_BLOCK_LENGTH_12	src/a2dp-codecs.h	54;"	d
+SBC_BLOCK_LENGTH_16	src/a2dp-codecs.h	55;"	d
+SBC_BLOCK_LENGTH_4	src/a2dp-codecs.h	52;"	d
+SBC_BLOCK_LENGTH_8	src/a2dp-codecs.h	53;"	d
+SBC_CHANNEL_MODE_DUAL_CHANNEL	src/a2dp-codecs.h	48;"	d
+SBC_CHANNEL_MODE_JOINT_STEREO	src/a2dp-codecs.h	50;"	d
+SBC_CHANNEL_MODE_MONO	src/a2dp-codecs.h	47;"	d
+SBC_CHANNEL_MODE_STEREO	src/a2dp-codecs.h	49;"	d
+SBC_MAX_BITPOOL	src/a2dp-codecs.h	63;"	d
+SBC_MIN_BITPOOL	src/a2dp-codecs.h	64;"	d
+SBC_SAMPLING_FREQ_16000	src/a2dp-codecs.h	42;"	d
+SBC_SAMPLING_FREQ_32000	src/a2dp-codecs.h	43;"	d
+SBC_SAMPLING_FREQ_44100	src/a2dp-codecs.h	44;"	d
+SBC_SAMPLING_FREQ_48000	src/a2dp-codecs.h	45;"	d
+SBC_SUBBANDS_4	src/a2dp-codecs.h	57;"	d
+SBC_SUBBANDS_8	src/a2dp-codecs.h	58;"	d
+SDP_HFP_AG_FEAT_ECNR	src/hfp.h	22;"	d
+SDP_HFP_AG_FEAT_RING	src/hfp.h	24;"	d
+SDP_HFP_AG_FEAT_TWC	src/hfp.h	21;"	d
+SDP_HFP_AG_FEAT_VREC	src/hfp.h	23;"	d
+SDP_HFP_AG_FEAT_VTAG	src/hfp.h	25;"	d
+SDP_HFP_AG_FEAT_WBAND	src/hfp.h	26;"	d
+SDP_HFP_HF_FEAT_CLI	src/hfp.h	31;"	d
+SDP_HFP_HF_FEAT_ECNR	src/hfp.h	29;"	d
+SDP_HFP_HF_FEAT_TWC	src/hfp.h	30;"	d
+SDP_HFP_HF_FEAT_VOLUME	src/hfp.h	33;"	d
+SDP_HFP_HF_FEAT_VREC	src/hfp.h	32;"	d
+SDP_HFP_HF_FEAT_WBAND	src/hfp.h	34;"	d
+SND_CTL_PLUGIN_DEFINE_FUNC	src/asound/bluealsa-ctl.c	?^SND_CTL_PLUGIN_DEFINE_FUNC(bluealsa) {$?;"	f
+SND_PCM_PLUGIN_DEFINE_FUNC	src/asound/bluealsa-pcm.c	?^SND_PCM_PLUGIN_DEFINE_FUNC(bluealsa) {$?;"	f
+TRANSPORT_ACTIVE	src/transport.h	?^	TRANSPORT_ACTIVE,$?;"	e	enum:ba_transport_state
+TRANSPORT_IDLE	src/transport.h	?^	TRANSPORT_IDLE,$?;"	e	enum:ba_transport_state
+TRANSPORT_LIMBO	src/transport.h	?^	TRANSPORT_LIMBO,$?;"	e	enum:ba_transport_state
+TRANSPORT_PAUSED	src/transport.h	?^	TRANSPORT_PAUSED,$?;"	e	enum:ba_transport_state
+TRANSPORT_PCM_CLOSE	src/transport.h	?^	TRANSPORT_PCM_CLOSE,$?;"	e	enum:ba_transport_signal
+TRANSPORT_PCM_OPEN	src/transport.h	?^	TRANSPORT_PCM_OPEN,$?;"	e	enum:ba_transport_signal
+TRANSPORT_PCM_PAUSE	src/transport.h	?^	TRANSPORT_PCM_PAUSE,$?;"	e	enum:ba_transport_signal
+TRANSPORT_PCM_RESUME	src/transport.h	?^	TRANSPORT_PCM_RESUME,$?;"	e	enum:ba_transport_signal
+TRANSPORT_PCM_SYNC	src/transport.h	?^	TRANSPORT_PCM_SYNC,$?;"	e	enum:ba_transport_signal
+TRANSPORT_PENDING	src/transport.h	?^	TRANSPORT_PENDING,$?;"	e	enum:ba_transport_state
+TRANSPORT_SEND_RFCOMM	src/transport.h	?^	TRANSPORT_SEND_RFCOMM,$?;"	e	enum:ba_transport_signal
+TRANSPORT_SET_VOLUME	src/transport.h	?^	TRANSPORT_SET_VOLUME,$?;"	e	enum:ba_transport_signal
+TRANSPORT_TYPE_A2DP	src/transport.h	?^	TRANSPORT_TYPE_A2DP,$?;"	e	enum:ba_transport_type
+TRANSPORT_TYPE_RFCOMM	src/transport.h	?^	TRANSPORT_TYPE_RFCOMM,$?;"	e	enum:ba_transport_type
+TRANSPORT_TYPE_SCO	src/transport.h	?^	TRANSPORT_TYPE_SCO,$?;"	e	enum:ba_transport_type
+XAPL_FEATURE_BATTERY	src/hfp.h	63;"	d
+XAPL_FEATURE_DENOISE	src/hfp.h	66;"	d
+XAPL_FEATURE_DOCKING	src/hfp.h	64;"	d
+XAPL_FEATURE_SIRI	src/hfp.h	65;"	d
+_GNU_SOURCE	src/asound/bluealsa-pcm.c	11;"	d	file:
+_GNU_SOURCE	src/ctl.c	11;"	d	file:
+_GNU_SOURCE	src/transport.c	11;"	d	file:
+_GNU_SOURCE	test/server-mock.c	15;"	d	file:
+_GNU_SOURCE	test/test-io.c	11;"	d	file:
+__AT_TYPE_MAX	src/at.h	?^	__AT_TYPE_MAX$?;"	e	enum:bt_at_type
+__BA_COMMAND_MAX	src/shared/ctl-proto.h	?^	__BA_COMMAND_MAX$?;"	e	enum:ba_command
+__CTL_IDX_MAX	src/bluealsa.h	38;"	d
+__HFP_IND_MAX	src/hfp.h	?^	__HFP_IND_MAX$?;"	e	enum:hfp_ind
+_ctl_transport	src/ctl.c	?^static void _ctl_transport(const struct ba_transport *t, struct ba_msg_transport *transport) {$?;"	f	file:
+_debug	src/shared/log.c	?^void _debug(const char *format, ...) {$?;"	f
+_elem	src/asound/bluealsa-ctl.c	?^	struct ctl_elem *_elem;$?;"	m	struct:ctl_elem_update	typeref:struct:ctl_elem_update::ctl_elem	file:
+_ident	src/shared/log.c	?^static char *_ident = NULL;$?;"	v	file:
+_register_binary_specifier	src/shared/log.c	?^void __attribute__ ((constructor)) _register_binary_specifier() {$?;"	f
+_syslog	src/shared/log.c	?^static bool _syslog = false;$?;"	v	file:
+_time	src/shared/log.c	?^static bool _time = BLUEALSA_LOGTIME;$?;"	v	file:
+_transport_get_pcm	src/ctl.c	?^static struct ba_pcm *_transport_get_pcm(struct ba_transport *t, enum ba_pcm_stream stream) {$?;"	f	file:
+_transport_lookup	src/ctl.c	?^static int _transport_lookup(GHashTable *devices, const bdaddr_t *addr,$?;"	f	file:
+_transport_lookup_rfcomm	src/ctl.c	?^static int _transport_lookup_rfcomm(GHashTable *devices, const bdaddr_t *addr,$?;"	f	file:
+_transport_release	src/ctl.c	?^static void _transport_release(struct ba_transport *t, int client) {$?;"	f	file:
+a2dp	src/bluealsa.h	?^	} a2dp;$?;"	m	struct:ba_config	typeref:struct:ba_config::__anon28
+a2dp	src/transport.h	?^		} a2dp;$?;"	m	union:ba_transport::__anon17	typeref:struct:ba_transport::__anon17::__anon18
+a2dp_aac	src/bluez-a2dp.c	?^static const a2dp_aac_t a2dp_aac = {$?;"	v	file:
+a2dp_aac_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_aac_t;$?;"	t	typeref:struct:__anon11
+a2dp_aac_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_aac_t;$?;"	t	typeref:struct:__anon5
+a2dp_aptx	src/bluez-a2dp.c	?^static const a2dp_aptx_t a2dp_aptx = {$?;"	v	file:
+a2dp_aptx_hd_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_aptx_hd_t;$?;"	t	typeref:struct:__anon13
+a2dp_aptx_hd_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_aptx_hd_t;$?;"	t	typeref:struct:__anon7
+a2dp_aptx_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_aptx_t;$?;"	t	typeref:struct:__anon12
+a2dp_aptx_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_aptx_t;$?;"	t	typeref:struct:__anon6
+a2dp_codec_sink_aac	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_sink_aac = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_sink_aptx	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_sink_aptx = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_sink_mpeg	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_sink_mpeg = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_sink_sbc	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_sink_sbc = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_source_aac	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_source_aac = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_source_aptx	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_source_aptx = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_source_mpeg	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_source_mpeg = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codec_source_sbc	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec a2dp_codec_source_sbc = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_codecs	src/bluez-a2dp.c	?^static const struct bluez_a2dp_codec *a2dp_codecs[] = {$?;"	v	typeref:struct:bluez_a2dp_codec	file:
+a2dp_ldac_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_ldac_t;$?;"	t	typeref:struct:__anon14
+a2dp_ldac_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_ldac_t;$?;"	t	typeref:struct:__anon8
+a2dp_mpeg	src/bluez-a2dp.c	?^static const a2dp_mpeg_t a2dp_mpeg = {$?;"	v	file:
+a2dp_mpeg_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_mpeg_t;$?;"	t	typeref:struct:__anon10
+a2dp_mpeg_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_mpeg_t;$?;"	t	typeref:struct:__anon4
+a2dp_sbc	src/bluez-a2dp.c	?^static const a2dp_sbc_t a2dp_sbc = {$?;"	v	file:
+a2dp_sbc_default_bitpool	src/utils.c	?^int a2dp_sbc_default_bitpool(int freq, int mode) {$?;"	f
+a2dp_sbc_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_sbc_t;$?;"	t	typeref:struct:__anon3
+a2dp_sbc_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_sbc_t;$?;"	t	typeref:struct:__anon9
+a2dp_sink	src/bluealsa.h	?^		bool a2dp_sink;$?;"	m	struct:ba_config::__anon25
+a2dp_source	src/bluealsa.h	?^		bool a2dp_source;$?;"	m	struct:ba_config::__anon25
+a2dp_vendor_codec_t	src/a2dp-codecs.h	?^} __attribute__ ((packed)) a2dp_vendor_codec_t;$?;"	t	typeref:struct:__anon2
+aac_afterburner	src/bluealsa.h	?^	bool aac_afterburner;$?;"	m	struct:ba_config
+aac_vbr_mode	src/bluealsa.h	?^	uint8_t aac_vbr_mode;$?;"	m	struct:ba_config
+aacdec_strerror	src/utils.c	?^const char *aacdec_strerror(AAC_DECODER_ERROR err) {$?;"	f
+aacenc_strerror	src/utils.c	?^const char *aacenc_strerror(AACENC_ERROR err) {$?;"	f
+accev_docked	src/transport.h	?^		uint8_t accev_docked;$?;"	m	struct:ba_device::__anon16
+active	utils/aplay.c	?^	bool active;$?;"	m	struct:pcm_worker	file:
+addr	src/shared/ctl-proto.h	?^	bdaddr_t addr;$?;"	m	struct:ba_msg_device
+addr	src/shared/ctl-proto.h	?^	bdaddr_t addr;$?;"	m	struct:ba_msg_transport
+addr	src/shared/ctl-proto.h	?^	bdaddr_t addr;$?;"	m	struct:ba_request
+addr	src/transport.h	?^	bdaddr_t addr;$?;"	m	struct:ba_device
+addr	utils/aplay.c	?^	char addr[18];$?;"	m	struct:pcm_worker	file:
+allocation_method	src/a2dp-codecs.h	?^	uint8_t allocation_method:2;$?;"	m	struct:__anon3
+allocation_method	src/a2dp-codecs.h	?^	uint8_t allocation_method:2;$?;"	m	struct:__anon9
+arg_capabilities	src/bluez-iface.c	?^static const GDBusArgInfo arg_capabilities = {$?;"	v	file:
+arg_device	src/bluez-iface.c	?^static const GDBusArgInfo arg_device = {$?;"	v	file:
+arg_fd	src/bluez-iface.c	?^static const GDBusArgInfo arg_fd = {$?;"	v	file:
+arg_fd_properties	src/bluez-iface.c	?^static const GDBusArgInfo arg_fd_properties = {$?;"	v	file:
+arg_properties	src/bluez-iface.c	?^static const GDBusArgInfo arg_properties = {$?;"	v	file:
+arg_transport	src/bluez-iface.c	?^static const GDBusArgInfo arg_transport = {$?;"	v	file:
+asrsync	src/shared/rt.h	?^struct asrsync {$?;"	s
+asrsync_init	src/shared/rt.h	50;"	d
+asrsync_sync	src/shared/rt.c	?^int asrsync_sync(struct asrsync *asrs, unsigned int frames) {$?;"	f
+at	src/rfcomm.c	?^	struct bt_at at;$?;"	m	struct:at_reader	typeref:struct:at_reader::bt_at	file:
+at_build	src/at.c	?^char *at_build(char *buffer, enum bt_at_type type, const char *command,$?;"	f
+at_parse	src/at.c	?^char *at_parse(const char *str, struct bt_at *at) {$?;"	f
+at_parse_cind	src/at.c	?^int at_parse_cind(const char *str, enum hfp_ind map[20]) {$?;"	f
+at_reader	src/rfcomm.c	?^struct at_reader {$?;"	s	file:
+at_type2str	src/at.c	?^const char *at_type2str(enum bt_at_type type) {$?;"	f
+ba2str_	src/shared/ctl-client.c	?^static char *ba2str_(const bdaddr_t *ba, char str[18]) {$?;"	f	file:
+ba_command	src/shared/ctl-proto.h	?^enum ba_command {$?;"	g
+ba_config	src/bluealsa.h	?^struct ba_config {$?;"	s
+ba_dbus_object	src/bluealsa.h	?^struct ba_dbus_object {$?;"	s
+ba_device	src/transport.h	?^struct ba_device {$?;"	s
+ba_event	src/shared/ctl-proto.h	?^enum ba_event {$?;"	g
+ba_fd	utils/aplay.c	?^	int ba_fd;$?;"	m	struct:pcm_worker	file:
+ba_interface	utils/aplay.c	?^static const char *ba_interface = "hci0";$?;"	v	file:
+ba_msg_device	src/shared/ctl-proto.h	?^struct __attribute__ ((packed)) ba_msg_device {$?;"	s
+ba_msg_event	src/shared/ctl-proto.h	?^struct __attribute__ ((packed)) ba_msg_event {$?;"	s
+ba_msg_status	src/shared/ctl-proto.h	?^struct __attribute__ ((packed)) ba_msg_status {$?;"	s
+ba_msg_transport	src/shared/ctl-proto.h	?^struct __attribute__ ((packed)) ba_msg_transport {$?;"	s
+ba_pcm	src/transport.h	?^struct ba_pcm {$?;"	s
+ba_pcm_stream	src/shared/ctl-proto.h	?^enum ba_pcm_stream {$?;"	g
+ba_pcm_type	src/shared/ctl-proto.h	?^enum ba_pcm_type {$?;"	g
+ba_request	src/shared/ctl-proto.h	?^struct __attribute__ ((packed)) ba_request {$?;"	s
+ba_status_code	src/shared/ctl-proto.h	?^enum ba_status_code {$?;"	g
+ba_transport	src/transport.h	?^struct ba_transport {$?;"	s
+ba_transport_signal	src/transport.h	?^enum ba_transport_signal {$?;"	g
+ba_transport_state	src/transport.h	?^enum ba_transport_state {$?;"	g
+ba_transport_type	src/transport.h	?^enum ba_transport_type {$?;"	g
+ba_type	utils/aplay.c	?^static enum ba_pcm_type ba_type = BA_PCM_TYPE_A2DP;$?;"	v	typeref:enum:ba_pcm_type	file:
+batostr_	src/utils.c	?^const char *batostr_(const bdaddr_t *ba) {$?;"	f
+battery	src/asound/bluealsa-ctl.c	?^	bool battery;$?;"	m	struct:bluealsa_ctl	file:
+battery	src/shared/ctl-proto.h	?^	uint8_t battery:1;$?;"	m	struct:ba_msg_device
+battery	src/transport.h	?^	} battery;$?;"	m	struct:ba_device	typeref:struct:ba_device::__anon15
+battery_level	src/shared/ctl-proto.h	?^	uint8_t battery_level:7;$?;"	m	struct:ba_msg_device
+bit	utils/hcitop.c	?^	unsigned int bit;$?;"	m	struct:__anon29	file:
+bitrate	src/a2dp-codecs.h	?^	uint16_t bitrate;$?;"	m	struct:__anon10
+bitrate	src/a2dp-codecs.h	?^	uint16_t bitrate;$?;"	m	struct:__anon4
+bitrate1	src/a2dp-codecs.h	?^	uint8_t bitrate1:7;$?;"	m	struct:__anon11
+bitrate1	src/a2dp-codecs.h	?^	uint8_t bitrate1:7;$?;"	m	struct:__anon5
+bitrate2	src/a2dp-codecs.h	?^	uint8_t bitrate2;$?;"	m	struct:__anon11
+bitrate2	src/a2dp-codecs.h	?^	uint8_t bitrate2;$?;"	m	struct:__anon5
+bitrate3	src/a2dp-codecs.h	?^	uint8_t bitrate3;$?;"	m	struct:__anon11
+bitrate3	src/a2dp-codecs.h	?^	uint8_t bitrate3;$?;"	m	struct:__anon5
+block_length	src/a2dp-codecs.h	?^	uint8_t block_length:4;$?;"	m	struct:__anon3
+block_length	src/a2dp-codecs.h	?^	uint8_t block_length:4;$?;"	m	struct:__anon9
+bluealsa	src/asound/bluealsa-ctl.c	?^SND_CTL_PLUGIN_SYMBOL(bluealsa);$?;"	v
+bluealsa	src/asound/bluealsa-pcm.c	?^SND_PCM_PLUGIN_SYMBOL(bluealsa);$?;"	v
+bluealsa_callback	src/asound/bluealsa-pcm.c	?^static const snd_pcm_ioplug_callback_t bluealsa_callback = {$?;"	v	file:
+bluealsa_close	src/asound/bluealsa-ctl.c	?^static void bluealsa_close(snd_ctl_ext_t *ext) {$?;"	f	file:
+bluealsa_close	src/asound/bluealsa-pcm.c	?^static int bluealsa_close(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_close_transport	src/shared/ctl-client.c	?^int bluealsa_close_transport(int fd, const struct ba_msg_transport *transport) {$?;"	f
+bluealsa_config_free	src/bluealsa.c	?^void bluealsa_config_free(void) {$?;"	f
+bluealsa_config_init	src/bluealsa.c	?^int bluealsa_config_init(void) {$?;"	f
+bluealsa_ctl	src/asound/bluealsa-ctl.c	?^struct bluealsa_ctl {$?;"	s	file:
+bluealsa_ctl_elem_cmp	src/asound/bluealsa-ctl.c	?^static int bluealsa_ctl_elem_cmp(const struct ctl_elem *e1, const struct ctl_elem *e2) {$?;"	f	file:
+bluealsa_ctl_elem_update_cmp	src/asound/bluealsa-ctl.c	?^static int bluealsa_ctl_elem_update_cmp(const void *p1, const void *p2) {$?;"	f	file:
+bluealsa_ctl_event	src/ctl.c	?^int bluealsa_ctl_event(enum ba_event event) {$?;"	f
+bluealsa_ctl_free	src/ctl.c	?^void bluealsa_ctl_free(void) {$?;"	f
+bluealsa_ctl_thread_init	src/ctl.c	?^int bluealsa_ctl_thread_init(void) {$?;"	f
+bluealsa_delay	src/asound/bluealsa-pcm.c	?^static int bluealsa_delay(snd_pcm_ioplug_t *io, snd_pcm_sframes_t *delayp) {$?;"	f	file:
+bluealsa_drain	src/asound/bluealsa-pcm.c	?^static int bluealsa_drain(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_drain_transport	src/shared/ctl-client.c	?^int bluealsa_drain_transport(int fd, const struct ba_msg_transport *transport) {$?;"	f
+bluealsa_dump	src/asound/bluealsa-pcm.c	?^static void bluealsa_dump(snd_pcm_ioplug_t *io, snd_output_t *out) {$?;"	f	file:
+bluealsa_elem_count	src/asound/bluealsa-ctl.c	?^static int bluealsa_elem_count(snd_ctl_ext_t *ext) {$?;"	f	file:
+bluealsa_elem_list	src/asound/bluealsa-ctl.c	?^static int bluealsa_elem_list(snd_ctl_ext_t *ext, unsigned int offset, snd_ctl_elem_id_t *id) {$?;"	f	file:
+bluealsa_find_elem	src/asound/bluealsa-ctl.c	?^static snd_ctl_ext_key_t bluealsa_find_elem(snd_ctl_ext_t *ext, const snd_ctl_elem_id_t *id) {$?;"	f	file:
+bluealsa_get_attribute	src/asound/bluealsa-ctl.c	?^static int bluealsa_get_attribute(snd_ctl_ext_t *ext, snd_ctl_ext_key_t key,$?;"	f	file:
+bluealsa_get_device_id	src/asound/bluealsa-ctl.c	?^static int bluealsa_get_device_id(const struct bluealsa_ctl *ctl,$?;"	f	file:
+bluealsa_get_devices	src/shared/ctl-client.c	?^ssize_t bluealsa_get_devices(int fd, struct ba_msg_device **devices) {$?;"	f
+bluealsa_get_integer_info	src/asound/bluealsa-ctl.c	?^static int bluealsa_get_integer_info(snd_ctl_ext_t *ext, snd_ctl_ext_key_t key,$?;"	f	file:
+bluealsa_get_transport	src/shared/ctl-client.c	?^int bluealsa_get_transport(int fd, bdaddr_t addr, enum ba_pcm_type type,$?;"	f
+bluealsa_get_transport_delay	src/shared/ctl-client.c	?^int bluealsa_get_transport_delay(int fd, const struct ba_msg_transport *transport,$?;"	f
+bluealsa_get_transport_volume	src/shared/ctl-client.c	?^int bluealsa_get_transport_volume(int fd, const struct ba_msg_transport *transport,$?;"	f
+bluealsa_get_transports	src/shared/ctl-client.c	?^ssize_t bluealsa_get_transports(int fd, struct ba_msg_transport **transports) {$?;"	f
+bluealsa_hw_free	src/asound/bluealsa-pcm.c	?^static int bluealsa_hw_free(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_hw_params	src/asound/bluealsa-pcm.c	?^static int bluealsa_hw_params(snd_pcm_ioplug_t *io, snd_pcm_hw_params_t *params) {$?;"	f	file:
+bluealsa_open	src/shared/ctl-client.c	?^int bluealsa_open(const char *interface) {$?;"	f
+bluealsa_open_transport	src/shared/ctl-client.c	?^int bluealsa_open_transport(int fd, const struct ba_msg_transport *transport) {$?;"	f
+bluealsa_parse_profile	src/asound/bluealsa-pcm.c	?^static enum ba_pcm_type bluealsa_parse_profile(const char *profile) {$?;"	f	file:
+bluealsa_pause	src/asound/bluealsa-pcm.c	?^static int bluealsa_pause(snd_pcm_ioplug_t *io, int enable) {$?;"	f	file:
+bluealsa_pause_transport	src/shared/ctl-client.c	?^int bluealsa_pause_transport(int fd, const struct ba_msg_transport *transport, bool pause) {$?;"	f
+bluealsa_pcm	src/asound/bluealsa-pcm.c	?^struct bluealsa_pcm {$?;"	s	file:
+bluealsa_pid	test/test-pcm.c	?^static pid_t bluealsa_pid = 0;$?;"	v	file:
+bluealsa_pointer	src/asound/bluealsa-pcm.c	?^static snd_pcm_sframes_t bluealsa_pointer(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_poll_descriptors	src/asound/bluealsa-pcm.c	?^static int bluealsa_poll_descriptors(snd_pcm_ioplug_t *io, struct pollfd *pfd,$?;"	f	file:
+bluealsa_poll_descriptors_count	src/asound/bluealsa-pcm.c	?^static int bluealsa_poll_descriptors_count(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_poll_revents	src/asound/bluealsa-pcm.c	?^static int bluealsa_poll_revents(snd_pcm_ioplug_t *io, struct pollfd *pfd,$?;"	f	file:
+bluealsa_prepare	src/asound/bluealsa-pcm.c	?^static int bluealsa_prepare(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_read_event	src/asound/bluealsa-ctl.c	?^static int bluealsa_read_event(snd_ctl_ext_t *ext, snd_ctl_elem_id_t *id, unsigned int *event_mask) {$?;"	f	file:
+bluealsa_read_integer	src/asound/bluealsa-ctl.c	?^static int bluealsa_read_integer(snd_ctl_ext_t *ext, snd_ctl_ext_key_t key, long *value) {$?;"	f	file:
+bluealsa_send_request	src/shared/ctl-client.c	?^static int bluealsa_send_request(int fd, const struct ba_request *req) {$?;"	f	file:
+bluealsa_send_rfcomm_command	src/shared/ctl-client.c	?^int bluealsa_send_rfcomm_command(int fd, bdaddr_t addr, const char *command) {$?;"	f
+bluealsa_set_elem_name	src/asound/bluealsa-ctl.c	?^static void bluealsa_set_elem_name(struct ctl_elem *elem, int id) {$?;"	f	file:
+bluealsa_set_hw_constraint	src/asound/bluealsa-pcm.c	?^static int bluealsa_set_hw_constraint(struct bluealsa_pcm *pcm) {$?;"	f	file:
+bluealsa_set_transport_delay	src/shared/ctl-client.c	?^int bluealsa_set_transport_delay(int fd, const struct ba_msg_transport *transport,$?;"	f
+bluealsa_set_transport_volume	src/shared/ctl-client.c	?^int bluealsa_set_transport_volume(int fd, const struct ba_msg_transport *transport,$?;"	f
+bluealsa_snd_ctl_ext_callback	src/asound/bluealsa-ctl.c	?^static const snd_ctl_ext_callback_t bluealsa_snd_ctl_ext_callback = {$?;"	v	file:
+bluealsa_start	src/asound/bluealsa-pcm.c	?^static int bluealsa_start(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_status_to_errno	src/shared/ctl-client.c	?^static int bluealsa_status_to_errno(const struct ba_msg_status *status) {$?;"	f	file:
+bluealsa_stop	src/asound/bluealsa-pcm.c	?^static int bluealsa_stop(snd_pcm_ioplug_t *io) {$?;"	f	file:
+bluealsa_subscribe	src/shared/ctl-client.c	?^int bluealsa_subscribe(int fd, enum ba_event mask) {$?;"	f
+bluealsa_subscribe_events	src/asound/bluealsa-ctl.c	?^static void bluealsa_subscribe_events(snd_ctl_ext_t *ext, int subscribe) {$?;"	f	file:
+bluealsa_sw_params	src/asound/bluealsa-pcm.c	?^static int bluealsa_sw_params(snd_pcm_ioplug_t *io, snd_pcm_sw_params_t *params) {$?;"	f	file:
+bluealsa_write_integer	src/asound/bluealsa-ctl.c	?^static int bluealsa_write_integer(snd_ctl_ext_t *ext, snd_ctl_ext_key_t key, long *value) {$?;"	f	file:
+bluetooth_a2dp_codec_to_string	src/utils.c	?^const char *bluetooth_a2dp_codec_to_string(uint16_t codec) {$?;"	f
+bluetooth_profile	src/bluez.h	?^enum bluetooth_profile {$?;"	g
+bluetooth_profile_to_string	src/utils.c	?^const char *bluetooth_profile_to_string(enum bluetooth_profile profile) {$?;"	f
+bluez_a2dp_codec	src/bluez-a2dp.h	?^struct bluez_a2dp_codec {$?;"	s
+bluez_a2dp_codecs	src/bluez-a2dp.c	?^const struct bluez_a2dp_codec **bluez_a2dp_codecs = a2dp_codecs;$?;"	v	typeref:struct:bluez_a2dp_codec
+bluez_a2dp_codecs	src/bluez-a2dp.h	?^const struct bluez_a2dp_codec **bluez_a2dp_codecs;$?;"	v	typeref:struct:bluez_a2dp_codec
+bluez_a2dp_dir	src/bluez-a2dp.h	?^enum bluez_a2dp_dir {$?;"	g
+bluez_endpoint_clear_configuration	src/bluez.c	?^static void bluez_endpoint_clear_configuration(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_endpoint_method_call	src/bluez.c	?^static void bluez_endpoint_method_call(GDBusConnection *conn, const gchar *sender,$?;"	f	file:
+bluez_endpoint_release	src/bluez.c	?^static void bluez_endpoint_release(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_endpoint_select_configuration	src/bluez.c	?^static void bluez_endpoint_select_configuration(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_endpoint_set_configuration	src/bluez.c	?^static int bluez_endpoint_set_configuration(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_get_dbus_object_count	src/bluez.c	?^static int bluez_get_dbus_object_count(enum bluetooth_profile profile, uint16_t codec) {$?;"	f	file:
+bluez_iface_endpoint	src/bluez-iface.c	?^const GDBusInterfaceInfo bluez_iface_endpoint = {$?;"	v
+bluez_iface_endpoint	src/bluez-iface.h	?^const GDBusInterfaceInfo bluez_iface_endpoint;$?;"	v
+bluez_iface_endpoint_ClearConfiguration	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_endpoint_ClearConfiguration = {$?;"	v	file:
+bluez_iface_endpoint_Release	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_endpoint_Release = {$?;"	v	file:
+bluez_iface_endpoint_SelectConfiguration	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_endpoint_SelectConfiguration = {$?;"	v	file:
+bluez_iface_endpoint_SetConfiguration	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_endpoint_SetConfiguration = {$?;"	v	file:
+bluez_iface_endpoint_methods	src/bluez-iface.c	?^static const GDBusMethodInfo *bluez_iface_endpoint_methods[] = {$?;"	v	file:
+bluez_iface_profile	src/bluez-iface.c	?^const GDBusInterfaceInfo bluez_iface_profile = {$?;"	v
+bluez_iface_profile	src/bluez-iface.h	?^const GDBusInterfaceInfo bluez_iface_profile;$?;"	v
+bluez_iface_profile_NewConnection	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_profile_NewConnection = {$?;"	v	file:
+bluez_iface_profile_Release	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_profile_Release = {$?;"	v	file:
+bluez_iface_profile_RequestDisconnection	src/bluez-iface.c	?^static const GDBusMethodInfo bluez_iface_profile_RequestDisconnection = {$?;"	v	file:
+bluez_iface_profile_methods	src/bluez-iface.c	?^static const GDBusMethodInfo *bluez_iface_profile_methods[] = {$?;"	v	file:
+bluez_profile_method_call	src/bluez.c	?^static void bluez_profile_method_call(GDBusConnection *conn, const gchar *sender,$?;"	f	file:
+bluez_profile_new_connection	src/bluez.c	?^static void bluez_profile_new_connection(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_profile_release	src/bluez.c	?^static void bluez_profile_release(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_profile_request_disconnection	src/bluez.c	?^static void bluez_profile_request_disconnection(GDBusMethodInvocation *inv, void *userdata) {$?;"	f	file:
+bluez_register_a2dp	src/bluez.c	?^void bluez_register_a2dp(void) {$?;"	f
+bluez_register_a2dp_endpoint	src/bluez.c	?^static int bluez_register_a2dp_endpoint($?;"	f	file:
+bluez_register_hfp	src/bluez.c	?^void bluez_register_hfp(void) {$?;"	f
+bluez_register_profile	src/bluez.c	?^static int bluez_register_profile($?;"	f	file:
+bluez_signal_interfaces_added	src/bluez.c	?^static void bluez_signal_interfaces_added(GDBusConnection *conn, const gchar *sender,$?;"	f	file:
+bluez_signal_transport_changed	src/bluez.c	?^static void bluez_signal_transport_changed(GDBusConnection *conn, const gchar *sender,$?;"	f	file:
+bluez_subscribe_signals	src/bluez.c	?^int bluez_subscribe_signals(void) {$?;"	f
+bt_at	src/at.h	?^struct bt_at {$?;"	s
+bt_at_type	src/at.h	?^enum bt_at_type {$?;"	g
+bt_fd	src/transport.h	?^	int bt_fd;$?;"	m	struct:ba_transport
+buffer	src/rfcomm.c	?^	char buffer[256];$?;"	m	struct:at_reader	file:
+build_rfcomm_command	utils/rfcomm.c	?^static char *build_rfcomm_command(const char *cmd) {$?;"	f	file:
+callback	src/rfcomm.h	?^	rfcomm_callback *callback;$?;"	m	struct:rfcomm_handler
+cc	src/a2dp-rtp.h	?^	uint16_t cc:4;$?;"	m	struct:rtp_header
+cconfig	src/transport.h	?^			uint8_t *cconfig;$?;"	m	struct:ba_transport::__anon17::__anon18
+cconfig	test/server-mock.c	?^static const a2dp_sbc_t cconfig = {$?;"	v	file:
+cconfig_size	src/transport.h	?^			size_t cconfig_size;$?;"	m	struct:ba_transport::__anon17::__anon18
+cfg	src/bluez-a2dp.h	?^	const void *cfg;$?;"	m	struct:bluez_a2dp_codec
+cfg_size	src/bluez-a2dp.h	?^	size_t cfg_size;$?;"	m	struct:bluez_a2dp_codec
+ch1_muted	src/shared/ctl-proto.h	?^			uint8_t ch1_muted:1;$?;"	m	struct:ba_request::__anon21::__anon22
+ch1_muted	src/shared/ctl-proto.h	?^	uint8_t ch1_muted:1;$?;"	m	struct:ba_msg_transport
+ch1_muted	src/transport.h	?^			uint8_t ch1_muted;$?;"	m	struct:ba_transport::__anon17::__anon18
+ch1_volume	src/shared/ctl-proto.h	?^			uint8_t ch1_volume:7;$?;"	m	struct:ba_request::__anon21::__anon22
+ch1_volume	src/shared/ctl-proto.h	?^	uint8_t ch1_volume:7;$?;"	m	struct:ba_msg_transport
+ch1_volume	src/transport.h	?^			uint8_t ch1_volume;$?;"	m	struct:ba_transport::__anon17::__anon18
+ch2_muted	src/shared/ctl-proto.h	?^			uint8_t ch2_muted:1;$?;"	m	struct:ba_request::__anon21::__anon22
+ch2_muted	src/shared/ctl-proto.h	?^	uint8_t ch2_muted:1;$?;"	m	struct:ba_msg_transport
+ch2_muted	src/transport.h	?^			uint8_t ch2_muted;$?;"	m	struct:ba_transport::__anon17::__anon18
+ch2_volume	src/shared/ctl-proto.h	?^			uint8_t ch2_volume:7;$?;"	m	struct:ba_request::__anon21::__anon22
+ch2_volume	src/shared/ctl-proto.h	?^	uint8_t ch2_volume:7;$?;"	m	struct:ba_msg_transport
+ch2_volume	src/transport.h	?^			uint8_t ch2_volume;$?;"	m	struct:ba_transport::__anon17::__anon18
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:3;$?;"	m	struct:__anon14
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:3;$?;"	m	struct:__anon8
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon10
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon12
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon13
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon3
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon4
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon6
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon7
+channel_mode	src/a2dp-codecs.h	?^	uint8_t channel_mode:4;$?;"	m	struct:__anon9
+channels	src/a2dp-codecs.h	?^	uint8_t channels:2;$?;"	m	struct:__anon11
+channels	src/a2dp-codecs.h	?^	uint8_t channels:2;$?;"	m	struct:__anon5
+channels	src/shared/ctl-proto.h	?^	uint8_t channels;$?;"	m	struct:ba_msg_transport
+client	src/transport.h	?^	int client;$?;"	m	struct:ba_pcm
+close_transport	src/asound/bluealsa-pcm.c	?^static int close_transport(struct bluealsa_pcm *pcm) {$?;"	f	file:
+code	src/shared/ctl-proto.h	?^	uint8_t code;$?;"	m	struct:ba_msg_status
+codec	src/bluealsa.h	?^	uint16_t codec;$?;"	m	struct:ba_dbus_object
+codec	src/shared/ctl-proto.h	?^	uint8_t codec;$?;"	m	struct:ba_msg_transport
+codec	src/transport.h	?^	uint16_t codec;$?;"	m	struct:ba_transport
+codec_id	src/a2dp-codecs.h	?^	uint16_t codec_id;$?;"	m	struct:__anon2
+codecs	src/bluealsa.h	?^		const struct bluez_a2dp_codec **codecs;$?;"	m	struct:ba_config::__anon28	typeref:struct:ba_config::__anon28::bluez_a2dp_codec
+command	src/at.h	?^	char command[256];$?;"	m	struct:bt_at
+command	src/rfcomm.h	?^	const char *command;$?;"	m	struct:rfcomm_handler
+command	src/shared/ctl-proto.h	?^	enum ba_command command;$?;"	m	struct:ba_request	typeref:enum:ba_request::ba_command
+config	src/bluealsa.c	?^struct ba_config config = {$?;"	v	typeref:struct:ba_config
+config_aac_44100_stereo	test/test-io.c	?^static const a2dp_aac_t config_aac_44100_stereo = {$?;"	v	file:
+config_aptx_44100_stereo	test/test-io.c	?^static const a2dp_aptx_t config_aptx_44100_stereo = {$?;"	v	file:
+config_sbc_44100_stereo	test/test-io.c	?^static const a2dp_sbc_t config_sbc_44100_stereo = {$?;"	v	file:
+connected	src/bluealsa.h	?^	bool connected;$?;"	m	struct:ba_dbus_object
+crc	src/a2dp-codecs.h	?^	uint8_t crc:1;$?;"	m	struct:__anon10
+crc	src/a2dp-codecs.h	?^	uint8_t crc:1;$?;"	m	struct:__anon4
+csrc	src/a2dp-rtp.h	?^	uint32_t csrc[16];$?;"	m	struct:rtp_header
+ctl	src/bluealsa.h	?^	} ctl;$?;"	m	struct:ba_config	typeref:struct:ba_config::__anon26
+ctl_elem	src/asound/bluealsa-ctl.c	?^struct ctl_elem {$?;"	s	file:
+ctl_elem_type	src/asound/bluealsa-ctl.c	?^enum ctl_elem_type {$?;"	g	file:
+ctl_elem_update	src/asound/bluealsa-ctl.c	?^struct ctl_elem_update {$?;"	s	file:
+ctl_thread	src/ctl.c	?^static void *ctl_thread(void *arg) {$?;"	f	file:
+ctl_thread_cmd_list_devices	src/ctl.c	?^static void ctl_thread_cmd_list_devices(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_list_transports	src/ctl.c	?^static void ctl_thread_cmd_list_transports(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_pcm_close	src/ctl.c	?^static void ctl_thread_cmd_pcm_close(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_pcm_control	src/ctl.c	?^static void ctl_thread_cmd_pcm_control(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_pcm_open	src/ctl.c	?^static void ctl_thread_cmd_pcm_open(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_ping	src/ctl.c	?^static void ctl_thread_cmd_ping(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_rfcomm_send	src/ctl.c	?^static void ctl_thread_cmd_rfcomm_send(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_subscribe	src/ctl.c	?^static void ctl_thread_cmd_subscribe(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_transport_get	src/ctl.c	?^static void ctl_thread_cmd_transport_get(const struct ba_request *req, int fd) {$?;"	f	file:
+ctl_thread_cmd_transport_set_volume	src/ctl.c	?^static void ctl_thread_cmd_transport_set_volume(const struct ba_request *req, int fd) {$?;"	f	file:
+data	src/shared/ffb.h	?^	int16_t *data;$?;"	m	struct:__anon24
+data	src/shared/ffb.h	?^	uint8_t *data;$?;"	m	struct:__anon23
+data	test/test-io.c	?^	uint8_t data[1024];$?;"	m	struct:__anon1	file:
+dbus	src/bluealsa.h	?^	GDBusConnection *dbus;$?;"	m	struct:ba_config
+dbus	utils/aplay.c	?^static GDBusConnection *dbus = NULL;$?;"	v	file:
+dbus_objects	src/bluealsa.h	?^	GHashTable *dbus_objects;$?;"	m	struct:ba_config
+dbus_owner	src/transport.h	?^	char *dbus_owner;$?;"	m	struct:ba_transport
+dbus_path	src/transport.h	?^	char *dbus_path;$?;"	m	struct:ba_transport
+debug	src/shared/log.h	34;"	d
+debug	src/shared/log.h	36;"	d
+delay	src/asound/bluealsa-pcm.c	?^	snd_pcm_sframes_t delay;$?;"	m	struct:bluealsa_pcm	file:
+delay	src/shared/ctl-proto.h	?^		uint16_t delay;$?;"	m	union:ba_request::__anon21
+delay	src/shared/ctl-proto.h	?^	uint16_t delay;$?;"	m	struct:ba_msg_transport
+delay	src/transport.h	?^			uint16_t delay;$?;"	m	struct:ba_transport::__anon17::__anon18
+delay	src/transport.h	?^	unsigned int delay;$?;"	m	struct:ba_transport
+delay_ex	src/asound/bluealsa-pcm.c	?^	snd_pcm_sframes_t delay_ex;$?;"	m	struct:bluealsa_pcm	file:
+device	src/asound/bluealsa-ctl.c	?^	struct ba_msg_device *device;$?;"	m	struct:ctl_elem	typeref:struct:ctl_elem::ba_msg_device	file:
+device	src/transport.h	?^	struct ba_device *device;$?;"	m	struct:ba_transport	typeref:struct:ba_transport::ba_device
+device	utils/aplay.c	?^static const char *device = "default";$?;"	v	file:
+device_free	src/transport.c	?^void device_free(struct ba_device *d) {$?;"	f
+device_get	src/transport.c	?^struct ba_device *device_get(GHashTable *devices, const char *key) {$?;"	f
+device_lookup	src/transport.c	?^struct ba_device *device_lookup(GHashTable *devices, const char *key) {$?;"	f
+device_new	src/transport.c	?^struct ba_device *device_new(int hci_dev_id, const bdaddr_t *addr, const char *name) {$?;"	f
+device_remove	src/transport.c	?^bool device_remove(GHashTable *devices, const char *key) {$?;"	f
+device_set_battery_level	src/transport.c	?^void device_set_battery_level(struct ba_device *d, uint8_t value) {$?;"	f
+devices	src/asound/bluealsa-ctl.c	?^	struct ba_msg_device *devices;$?;"	m	struct:bluealsa_ctl	typeref:struct:bluealsa_ctl::ba_msg_device	file:
+devices	src/bluealsa.h	?^	GHashTable *devices;$?;"	m	struct:ba_config
+devices_count	src/asound/bluealsa-ctl.c	?^	size_t devices_count;$?;"	m	struct:bluealsa_ctl	file:
+devices_mutex	src/bluealsa.h	?^	pthread_mutex_t devices_mutex;$?;"	m	struct:ba_config
+difftimespec	src/shared/rt.c	?^int difftimespec($?;"	f
+dir	src/bluez-a2dp.h	?^	enum bluez_a2dp_dir dir;$?;"	m	struct:bluez_a2dp_codec	typeref:enum:bluez_a2dp_codec::bluez_a2dp_dir
+drained	src/transport.h	?^	pthread_cond_t drained;$?;"	m	struct:ba_pcm
+drained_mn	src/transport.h	?^	pthread_mutex_t drained_mn;$?;"	m	struct:ba_pcm
+elems	src/asound/bluealsa-ctl.c	?^	struct ctl_elem *elems;$?;"	m	struct:bluealsa_ctl	typeref:struct:bluealsa_ctl::ctl_elem	file:
+elems_count	src/asound/bluealsa-ctl.c	?^	size_t elems_count;$?;"	m	struct:bluealsa_ctl	file:
+enable	src/bluealsa.h	?^	} enable;$?;"	m	struct:ba_config	typeref:struct:ba_config::__anon25
+enabled	src/transport.h	?^		bool enabled;$?;"	m	struct:ba_device::__anon15
+endpoint_free	src/bluez.c	?^static void endpoint_free(gpointer data) {$?;"	f	file:
+endpoint_vtable	src/bluez.c	?^static const GDBusInterfaceVTable endpoint_vtable = {$?;"	v	file:
+error	src/shared/log.c	?^void error(const char *format, ...) {$?;"	f
+event_fd	src/asound/bluealsa-ctl.c	?^	int event_fd;$?;"	m	struct:bluealsa_ctl	file:
+event_fd	src/asound/bluealsa-pcm.c	?^	int event_fd;$?;"	m	struct:bluealsa_pcm	file:
+event_mask	src/asound/bluealsa-ctl.c	?^	unsigned int event_mask;$?;"	m	struct:ctl_elem_update	file:
+events	src/shared/ctl-proto.h	?^		enum ba_event events;$?;"	m	union:ba_request::__anon21	typeref:enum:ba_request::__anon21::ba_event
+eviction	utils/aplay.c	?^	bool eviction;$?;"	m	struct:pcm_worker	file:
+evt	src/bluealsa.h	?^		int evt[2];$?;"	m	struct:ba_config::__anon26
+ext	src/asound/bluealsa-ctl.c	?^	snd_ctl_ext_t ext;$?;"	m	struct:bluealsa_ctl	file:
+extbit	src/a2dp-rtp.h	?^	uint16_t extbit:1;$?;"	m	struct:rtp_header
+fd	src/asound/bluealsa-ctl.c	?^	int fd;$?;"	m	struct:bluealsa_ctl	file:
+fd	src/asound/bluealsa-pcm.c	?^	int fd;$?;"	m	struct:bluealsa_pcm	file:
+fd	src/transport.h	?^	int fd;$?;"	m	struct:ba_pcm
+features	src/transport.h	?^		uint8_t features;$?;"	m	struct:ba_device::__anon16
+features_rfcomm_ag	src/bluealsa.h	?^		int features_rfcomm_ag;$?;"	m	struct:ba_config::__anon27
+features_rfcomm_hf	src/bluealsa.h	?^		int features_rfcomm_hf;$?;"	m	struct:ba_config::__anon27
+features_sdp_ag	src/bluealsa.h	?^		int features_sdp_ag;$?;"	m	struct:ba_config::__anon27
+features_sdp_hf	src/bluealsa.h	?^		int features_sdp_hf;$?;"	m	struct:ba_config::__anon27
+ffb_blen_in	src/shared/ffb.h	59;"	d
+ffb_blen_out	src/shared/ffb.h	62;"	d
+ffb_init	src/shared/ffb.h	44;"	d
+ffb_int16_free	src/shared/ffb.c	?^void ffb_int16_free(ffb_int16_t *ffb) {$?;"	f
+ffb_int16_t	src/shared/ffb.h	?^} ffb_int16_t;$?;"	t	typeref:struct:__anon24
+ffb_len_in	src/shared/ffb.h	52;"	d
+ffb_len_out	src/shared/ffb.h	55;"	d
+ffb_rewind	src/shared/ffb.h	70;"	d
+ffb_seek	src/shared/ffb.h	66;"	d
+ffb_shift	src/shared/ffb.h	74;"	d
+ffb_uint8_free	src/shared/ffb.c	?^void ffb_uint8_free(ffb_uint8_t *ffb) {$?;"	f
+ffb_uint8_t	src/shared/ffb.h	?^} ffb_uint8_t;$?;"	t	typeref:struct:__anon23
+first_fragment	src/a2dp-rtp.h	?^	uint8_t first_fragment:1;$?;"	m	struct:rtp_media_header
+flag	utils/hcitop.c	?^	char flag;$?;"	m	struct:__anon29	file:
+force_44100	src/bluealsa.h	?^		bool force_44100;$?;"	m	struct:ba_config::__anon28
+force_mono	src/bluealsa.h	?^		bool force_mono;$?;"	m	struct:ba_config::__anon28
+fragmented	src/a2dp-rtp.h	?^	uint8_t fragmented:1;$?;"	m	struct:rtp_media_header
+frame_count	src/a2dp-rtp.h	?^	uint8_t frame_count:4;$?;"	m	struct:rtp_media_header
+frame_size	src/asound/bluealsa-pcm.c	?^	size_t frame_size;$?;"	m	struct:bluealsa_pcm	file:
+frames	src/shared/rt.h	?^	uint32_t frames;$?;"	m	struct:asrsync
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:4;$?;"	m	struct:__anon12
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:4;$?;"	m	struct:__anon13
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:4;$?;"	m	struct:__anon3
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:4;$?;"	m	struct:__anon6
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:4;$?;"	m	struct:__anon7
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:4;$?;"	m	struct:__anon9
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:6;$?;"	m	struct:__anon10
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:6;$?;"	m	struct:__anon14
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:6;$?;"	m	struct:__anon4
+frequency	src/a2dp-codecs.h	?^	uint8_t frequency:6;$?;"	m	struct:__anon8
+frequency1	src/a2dp-codecs.h	?^	uint8_t frequency1;$?;"	m	struct:__anon11
+frequency1	src/a2dp-codecs.h	?^	uint8_t frequency1;$?;"	m	struct:__anon5
+frequency2	src/a2dp-codecs.h	?^	uint8_t frequency2:4;$?;"	m	struct:__anon11
+frequency2	src/a2dp-codecs.h	?^	uint8_t frequency2:4;$?;"	m	struct:__anon5
+g_dbus_device_path_to_bdaddr	src/utils.c	?^int g_dbus_device_path_to_bdaddr(const char *path, bdaddr_t *addr) {$?;"	f
+g_dbus_get_profile_object_path	src/utils.c	?^const char *g_dbus_get_profile_object_path(enum bluetooth_profile profile, uint16_t codec) {$?;"	f
+g_dbus_get_property	src/utils.c	?^GVariant *g_dbus_get_property(GDBusConnection *conn, const char *name,$?;"	f
+g_dbus_object_path_to_a2dp_codec	src/utils.c	?^uint16_t g_dbus_object_path_to_a2dp_codec(const char *path) {$?;"	f
+g_dbus_object_path_to_profile	src/utils.c	?^enum bluetooth_profile g_dbus_object_path_to_profile(const char *path) {$?;"	f
+g_dbus_set_property	src/utils.c	?^gboolean g_dbus_set_property(GDBusConnection *conn, const char *name,$?;"	f
+get_a2dp_codecs	src/main.c	?^static char *get_a2dp_codecs($?;"	f	file:
+get_active_worker	utils/aplay.c	?^static struct pcm_worker *get_active_worker(void) {$?;"	f	file:
+get_average_rate	utils/hcitop.c	?^static unsigned int get_average_rate(unsigned int *array, size_t size) {$?;"	f	file:
+get_devinfo	utils/hcitop.c	?^static int get_devinfo(struct hci_dev_info di[HCI_MAX_DEV]) {$?;"	f	file:
+gettimestamp	src/shared/rt.h	63;"	d
+gettimestamp	src/shared/rt.h	65;"	d
+gid_audio	src/bluealsa.h	?^	gid_t gid_audio;$?;"	m	struct:ba_config
+handler	src/rfcomm.h	?^	const struct rfcomm_handler *handler;$?;"	m	struct:rfcomm_conn	typeref:struct:rfcomm_conn::rfcomm_handler
+hci_dev	src/bluealsa.h	?^	struct hci_dev_info hci_dev;$?;"	m	struct:ba_config	typeref:struct:ba_config::hci_dev_info
+hci_dev_id	src/transport.h	?^	int hci_dev_id;$?;"	m	struct:ba_device
+hci_devlist	src/utils.c	?^int hci_devlist(struct hci_dev_info **di, int *num) {$?;"	f
+hci_flags_map	utils/hcitop.c	?^} hci_flags_map[] = {$?;"	v	typeref:struct:__anon29	file:
+hci_open_sco	src/utils.c	?^int hci_open_sco(const struct hci_dev_info *di, const bdaddr_t *ba, bool transparent) {$?;"	f
+hexdump	src/shared/log.c	?^void hexdump(const char *label, const void *mem, size_t len) {$?;"	f
+hexdump	src/shared/log.h	42;"	d
+hfp	src/bluealsa.h	?^	} hfp;$?;"	m	struct:ba_config	typeref:struct:ba_config::__anon27
+hfp_ag	src/bluealsa.h	?^		bool hfp_ag;$?;"	m	struct:ba_config::__anon25
+hfp_features	src/transport.h	?^			uint32_t hfp_features;$?;"	m	struct:ba_transport::__anon17::__anon19
+hfp_hf	src/bluealsa.h	?^		bool hfp_hf;$?;"	m	struct:ba_config::__anon25
+hfp_ind	src/hfp.h	?^enum __attribute__ ((packed)) hfp_ind {$?;"	g
+hfp_ind_map	src/rfcomm.h	?^	enum hfp_ind hfp_ind_map[20];$?;"	m	struct:rfcomm_conn	typeref:enum:rfcomm_conn::hfp_ind
+hfp_inds	src/transport.h	?^			unsigned char hfp_inds[__HFP_IND_MAX];$?;"	m	struct:ba_transport::__anon17::__anon19
+hfp_state	src/hfp.h	?^enum __attribute__ ((packed)) hfp_state {$?;"	g
+hsp_ag	src/bluealsa.h	?^		bool hsp_ag;$?;"	m	struct:ba_config::__anon25
+hsp_hs	src/bluealsa.h	?^		bool hsp_hs;$?;"	m	struct:ba_config::__anon25
+id	src/bluealsa.h	?^	unsigned int id;$?;"	m	struct:ba_dbus_object
+id	src/bluez-a2dp.h	?^	uint16_t id;$?;"	m	struct:bluez_a2dp_codec
+in_ClearConfiguration	src/bluez-iface.c	?^static const GDBusArgInfo *in_ClearConfiguration[] = {$?;"	v	file:
+in_NewConnection	src/bluez-iface.c	?^static const GDBusArgInfo *in_NewConnection[] = {$?;"	v	file:
+in_RequestDisconnection	src/bluez-iface.c	?^static const GDBusArgInfo *in_RequestDisconnection[] = {$?;"	v	file:
+in_SelectConfiguration	src/bluez-iface.c	?^static const GDBusArgInfo *in_SelectConfiguration[] = {$?;"	v	file:
+in_SetConfiguration	src/bluez-iface.c	?^static const GDBusArgInfo *in_SetConfiguration[] = {$?;"	v	file:
+info	src/a2dp-codecs.h	?^	a2dp_vendor_codec_t info;$?;"	m	struct:__anon12
+info	src/a2dp-codecs.h	?^	a2dp_vendor_codec_t info;$?;"	m	struct:__anon13
+info	src/a2dp-codecs.h	?^	a2dp_vendor_codec_t info;$?;"	m	struct:__anon14
+info	src/a2dp-codecs.h	?^	a2dp_vendor_codec_t info;$?;"	m	struct:__anon6
+info	src/a2dp-codecs.h	?^	a2dp_vendor_codec_t info;$?;"	m	struct:__anon7
+info	src/a2dp-codecs.h	?^	a2dp_vendor_codec_t info;$?;"	m	struct:__anon8
+info	src/shared/log.c	?^void info(const char *format, ...) {$?;"	f
+io	src/asound/bluealsa-pcm.c	?^	snd_pcm_ioplug_t io;$?;"	m	struct:bluealsa_pcm	file:
+io_hw_boundary	src/asound/bluealsa-pcm.c	?^	snd_pcm_uframes_t io_hw_boundary;$?;"	m	struct:bluealsa_pcm	file:
+io_hw_ptr	src/asound/bluealsa-pcm.c	?^	snd_pcm_uframes_t io_hw_ptr;$?;"	m	struct:bluealsa_pcm	file:
+io_ptr	src/asound/bluealsa-pcm.c	?^	snd_pcm_uframes_t io_ptr;$?;"	m	struct:bluealsa_pcm	file:
+io_started	src/asound/bluealsa-pcm.c	?^	bool io_started;$?;"	m	struct:bluealsa_pcm	file:
+io_thread	src/asound/bluealsa-pcm.c	?^	pthread_t io_thread;$?;"	m	struct:bluealsa_pcm	file:
+io_thread	src/asound/bluealsa-pcm.c	?^static void *io_thread(void *arg) {$?;"	f	file:
+io_thread_a2dp_sink_aac	src/io.c	?^void *io_thread_a2dp_sink_aac(void *arg) {$?;"	f
+io_thread_a2dp_sink_dump	src/io.c	?^void *io_thread_a2dp_sink_dump(void *arg) {$?;"	f
+io_thread_a2dp_sink_sbc	src/io.c	?^void *io_thread_a2dp_sink_sbc(void *arg) {$?;"	f
+io_thread_a2dp_sink_sbc	test/server-mock.c	28;"	d	file:
+io_thread_a2dp_sink_sbc	test/server-mock.c	31;"	d	file:
+io_thread_a2dp_sink_sbc	test/server-mock.c	?^void *io_thread_a2dp_sink_sbc(void *arg) {$?;"	f
+io_thread_a2dp_source_aac	src/io.c	?^void *io_thread_a2dp_source_aac(void *arg) {$?;"	f
+io_thread_a2dp_source_aptx	src/io.c	?^void *io_thread_a2dp_source_aptx(void *arg) {$?;"	f
+io_thread_a2dp_source_sbc	src/io.c	?^void *io_thread_a2dp_source_sbc(void *arg) {$?;"	f
+io_thread_a2dp_source_sbc	test/server-mock.c	29;"	d	file:
+io_thread_a2dp_source_sbc	test/server-mock.c	32;"	d	file:
+io_thread_a2dp_source_sbc	test/server-mock.c	?^void *io_thread_a2dp_source_sbc(void *arg) {$?;"	f
+io_thread_create	src/transport.c	?^static int io_thread_create(struct ba_transport *t) {$?;"	f	file:
+io_thread_init_rtp	src/io.c	?^static uint8_t *io_thread_init_rtp(void *s, rtp_header_t **hdr, rtp_media_header_t **mhdr) {$?;"	f	file:
+io_thread_read_pcm	src/io.c	?^static ssize_t io_thread_read_pcm(struct ba_pcm *pcm, int16_t *buffer, size_t samples) {$?;"	f	file:
+io_thread_scale_pcm	src/io.c	?^static void io_thread_scale_pcm(struct ba_transport *t, int16_t *buffer,$?;"	f	file:
+io_thread_sco	src/io.c	?^void *io_thread_sco(void *arg) {$?;"	f
+io_thread_write_bt	src/io.c	?^static ssize_t io_thread_write_bt(int fd, const uint8_t *buffer, size_t len) {$?;"	f	file:
+io_thread_write_pcm	src/io.c	?^static ssize_t io_thread_write_pcm(struct ba_pcm *pcm, const int16_t *buffer, size_t samples) {$?;"	f	file:
+last_fragment	src/a2dp-rtp.h	?^	uint8_t last_fragment:1;$?;"	m	struct:rtp_media_header
+layer	src/a2dp-codecs.h	?^	uint8_t layer:3;$?;"	m	struct:__anon10
+layer	src/a2dp-codecs.h	?^	uint8_t layer:3;$?;"	m	struct:__anon4
+len	test/test-io.c	?^	size_t len;$?;"	m	struct:__anon1	file:
+level	src/transport.h	?^		uint8_t level;$?;"	m	struct:ba_device::__anon15
+log_open	src/shared/log.c	?^void log_open(const char *ident, bool syslog, bool time) {$?;"	f
+loop	src/main.c	?^static GMainLoop *loop = NULL;$?;"	v	file:
+main	src/main.c	?^int main(int argc, char **argv) {$?;"	f
+main	test/server-mock.c	?^int main(int argc, char *argv[]) {$?;"	f
+main	test/test-at.c	?^int main(void) {$?;"	f
+main	test/test-io.c	?^int main(void) {$?;"	f
+main	test/test-pcm.c	?^int main(int argc, char *argv[]) {$?;"	f
+main	test/test-utils.c	?^int main(void) {$?;"	f
+main	utils/aplay.c	?^int main(int argc, char *argv[]) {$?;"	f
+main	utils/hcitop.c	?^int main(int argc, char *argv[]) {$?;"	f
+main	utils/rfcomm.c	?^int main(int argc, char *argv[]) {$?;"	f
+main_loop_on	test/server-mock.c	?^static bool main_loop_on = true;$?;"	v	file:
+main_loop_on	utils/aplay.c	?^static bool main_loop_on = true;$?;"	v	file:
+main_loop_stop	src/main.c	?^static void main_loop_stop(int sig) {$?;"	f	file:
+main_loop_stop	utils/aplay.c	?^static void main_loop_stop(int sig) {$?;"	f	file:
+main_thread	src/bluealsa.h	?^	pthread_t main_thread;$?;"	m	struct:ba_config
+markbit	src/a2dp-rtp.h	?^	uint16_t markbit:1;$?;"	m	struct:rtp_header
+mask	src/shared/ctl-proto.h	?^	enum ba_event mask;$?;"	m	struct:ba_msg_event	typeref:enum:ba_msg_event::ba_event
+max_bitpool	src/a2dp-codecs.h	?^	uint8_t max_bitpool;$?;"	m	struct:__anon3
+max_bitpool	src/a2dp-codecs.h	?^	uint8_t max_bitpool;$?;"	m	struct:__anon9
+mic_gain	src/rfcomm.h	?^	uint8_t mic_gain;$?;"	m	struct:rfcomm_conn
+mic_gain	src/transport.h	?^			uint8_t mic_gain;$?;"	m	struct:ba_transport::__anon17::__anon20
+mic_muted	src/transport.h	?^			bool mic_muted;$?;"	m	struct:ba_transport::__anon17::__anon20
+mic_pcm	src/transport.h	?^			struct ba_pcm mic_pcm;$?;"	m	struct:ba_transport::__anon17::__anon20	typeref:struct:ba_transport::__anon17::__anon20::ba_pcm
+min_bitpool	src/a2dp-codecs.h	?^	uint8_t min_bitpool;$?;"	m	struct:__anon3
+min_bitpool	src/a2dp-codecs.h	?^	uint8_t min_bitpool;$?;"	m	struct:__anon9
+mpf	src/a2dp-codecs.h	?^	uint8_t mpf:1;$?;"	m	struct:__anon10
+mpf	src/a2dp-codecs.h	?^	uint8_t mpf:1;$?;"	m	struct:__anon4
+mtu_read	src/transport.h	?^	size_t mtu_read;$?;"	m	struct:ba_transport
+mtu_write	src/transport.h	?^	size_t mtu_write;$?;"	m	struct:ba_transport
+name	src/asound/bluealsa-ctl.c	?^	char name[44 /* internal ALSA constraint */ + 1];$?;"	m	struct:ctl_elem	file:
+name	src/asound/bluealsa-ctl.c	?^	char name[sizeof(((struct ctl_elem *)0)->name)];$?;"	m	struct:ctl_elem_update	file:
+name	src/shared/ctl-proto.h	?^	char name[32];$?;"	m	struct:ba_msg_device
+name	src/transport.h	?^	char name[HCI_MAX_NAME_LENGTH];$?;"	m	struct:ba_device
+next	src/rfcomm.c	?^	char *next;$?;"	m	struct:at_reader	file:
+object_type	src/a2dp-codecs.h	?^	uint8_t object_type;$?;"	m	struct:__anon11
+object_type	src/a2dp-codecs.h	?^	uint8_t object_type;$?;"	m	struct:__anon5
+out_SelectConfiguration	src/bluez-iface.c	?^static const GDBusArgInfo *out_SelectConfiguration[] = {$?;"	v	file:
+padbit	src/a2dp-rtp.h	?^	uint16_t padbit:1;$?;"	m	struct:rtp_header
+pause_device_player	utils/aplay.c	?^static int pause_device_player(const bdaddr_t *dev) {$?;"	f	file:
+paytype	src/a2dp-rtp.h	?^	uint16_t paytype:7;$?;"	m	struct:rtp_header
+pcm	src/transport.h	?^			struct ba_pcm pcm;$?;"	m	struct:ba_transport::__anon17::__anon18	typeref:struct:ba_transport::__anon17::__anon18::ba_pcm
+pcm	utils/aplay.c	?^	snd_pcm_t *pcm;$?;"	m	struct:pcm_worker	file:
+pcm_buffer_size	src/asound/bluealsa-pcm.c	?^	size_t pcm_buffer_size;$?;"	m	struct:bluealsa_pcm	file:
+pcm_buffer_time	utils/aplay.c	?^static unsigned int pcm_buffer_time = 500000;$?;"	v	file:
+pcm_fd	src/asound/bluealsa-pcm.c	?^	int pcm_fd;$?;"	m	struct:bluealsa_pcm	file:
+pcm_fd	utils/aplay.c	?^	int pcm_fd;$?;"	m	struct:pcm_worker	file:
+pcm_mixer	utils/aplay.c	?^static bool pcm_mixer = true;$?;"	v	file:
+pcm_open	utils/aplay.c	?^static int pcm_open(snd_pcm_t **pcm, int channels, int rate,$?;"	f	file:
+pcm_period_time	utils/aplay.c	?^static unsigned int pcm_period_time = 100000;$?;"	v	file:
+pcm_set_hw_params	utils/aplay.c	?^static int pcm_set_hw_params(snd_pcm_t *pcm, int channels, int rate,$?;"	f	file:
+pcm_set_sw_params	utils/aplay.c	?^static int pcm_set_sw_params(snd_pcm_t *pcm, snd_pcm_uframes_t buffer_size,$?;"	f	file:
+pcm_worker	utils/aplay.c	?^struct pcm_worker {$?;"	s	file:
+pcm_worker_routine	utils/aplay.c	?^static void *pcm_worker_routine(void *arg) {$?;"	f	file:
+pcm_worker_routine_exit	utils/aplay.c	?^static void pcm_worker_routine_exit(struct pcm_worker *worker) {$?;"	f	file:
+pfds	src/bluealsa.h	?^		struct pollfd pfds[__CTL_IDX_MAX + BLUEALSA_MAX_CLIENTS];$?;"	m	struct:ba_config::__anon26	typeref:struct:ba_config::__anon26::pollfd
+playback	src/asound/bluealsa-ctl.c	?^	bool playback;$?;"	m	struct:ctl_elem	file:
+printf_arginfo	src/shared/log.c	?^static int printf_arginfo(const struct printf_info *info, size_t n, int *argtypes, int *size) {$?;"	f	file:
+printf_output	src/shared/log.c	?^static int printf_output(FILE *stream, const struct printf_info *info, const void * const *args) {$?;"	f	file:
+product_id	src/transport.h	?^		uint16_t product_id;$?;"	m	struct:ba_device::__anon16
+profile	src/bluealsa.h	?^	enum bluetooth_profile profile;$?;"	m	struct:ba_dbus_object	typeref:enum:ba_dbus_object::bluetooth_profile
+profile	src/transport.h	?^	enum bluetooth_profile profile;$?;"	m	struct:ba_transport	typeref:enum:ba_transport::bluetooth_profile
+profile_free	src/bluez.c	?^void profile_free(gpointer data) {$?;"	f
+profile_vtable	src/bluez.c	?^static const GDBusInterfaceVTable profile_vtable = {$?;"	v	file:
+pthread_timedjoin	test/test-io.c	?^static int pthread_timedjoin(pthread_t thread, void **retval, useconds_t usec) {$?;"	f	file:
+rate	src/shared/rt.h	?^	unsigned int rate;$?;"	m	struct:asrsync
+release	src/transport.h	?^	int (*release)(struct ba_transport *);$?;"	m	struct:ba_transport
+retries	src/rfcomm.h	?^	int retries;$?;"	m	struct:rfcomm_conn
+rfa	src/a2dp-codecs.h	?^	uint32_t rfa;$?;"	m	struct:__anon13
+rfa	src/a2dp-codecs.h	?^	uint32_t rfa;$?;"	m	struct:__anon7
+rfa	src/a2dp-codecs.h	?^	uint8_t rfa:1;$?;"	m	struct:__anon10
+rfa	src/a2dp-codecs.h	?^	uint8_t rfa:1;$?;"	m	struct:__anon4
+rfa	src/a2dp-codecs.h	?^	uint8_t rfa:2;$?;"	m	struct:__anon11
+rfa	src/a2dp-codecs.h	?^	uint8_t rfa:2;$?;"	m	struct:__anon5
+rfa	src/a2dp-rtp.h	?^	uint8_t rfa:1;$?;"	m	struct:rtp_media_header
+rfa1	src/a2dp-codecs.h	?^	uint8_t rfa1:2;$?;"	m	struct:__anon14
+rfa1	src/a2dp-codecs.h	?^	uint8_t rfa1:2;$?;"	m	struct:__anon8
+rfa2	src/a2dp-codecs.h	?^	uint8_t rfa2:5;$?;"	m	struct:__anon14
+rfa2	src/a2dp-codecs.h	?^	uint8_t rfa2:5;$?;"	m	struct:__anon8
+rfcomm	src/transport.h	?^			struct ba_transport *rfcomm;$?;"	m	struct:ba_transport::__anon17::__anon20	typeref:struct:ba_transport::__anon17::__anon20::ba_transport
+rfcomm	src/transport.h	?^		} rfcomm;$?;"	m	union:ba_transport::__anon17	typeref:struct:ba_transport::__anon17::__anon19
+rfcomm_callback	src/rfcomm.h	?^typedef int rfcomm_callback(struct rfcomm_conn *c, const struct bt_at *at);$?;"	t
+rfcomm_command	src/shared/ctl-proto.h	?^		char rfcomm_command[32];$?;"	m	union:ba_request::__anon21
+rfcomm_conn	src/rfcomm.h	?^struct rfcomm_conn {$?;"	s
+rfcomm_get_callback	src/rfcomm.c	?^static rfcomm_callback *rfcomm_get_callback(const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler	src/rfcomm.h	?^struct rfcomm_handler {$?;"	s
+rfcomm_handler_bac_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_bac_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_bac_set_cb	src/rfcomm.c	?^static int rfcomm_handler_bac_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_bcs_resp	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_bcs_resp = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_bcs_resp_cb	src/rfcomm.c	?^static int rfcomm_handler_bcs_resp_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_bcs_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_bcs_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_bcs_set_cb	src/rfcomm.c	?^static int rfcomm_handler_bcs_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_bia_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_bia_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_bia_set_cb	src/rfcomm.c	?^static int rfcomm_handler_bia_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_brsf_resp	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_brsf_resp = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_brsf_resp_cb	src/rfcomm.c	?^static int rfcomm_handler_brsf_resp_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_brsf_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_brsf_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_brsf_set_cb	src/rfcomm.c	?^static int rfcomm_handler_brsf_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_btrh_get	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_btrh_get = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_btrh_get_cb	src/rfcomm.c	?^static int rfcomm_handler_btrh_get_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_ciev_resp	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_ciev_resp = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_ciev_resp_cb	src/rfcomm.c	?^static int rfcomm_handler_ciev_resp_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_cind_get	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_cind_get = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_cind_get_cb	src/rfcomm.c	?^static int rfcomm_handler_cind_get_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_cind_resp_get	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_cind_resp_get = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_cind_resp_get_cb	src/rfcomm.c	?^static int rfcomm_handler_cind_resp_get_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_cind_resp_test	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_cind_resp_test = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_cind_resp_test_cb	src/rfcomm.c	?^static int rfcomm_handler_cind_resp_test_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_cind_test	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_cind_test = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_cind_test_cb	src/rfcomm.c	?^static int rfcomm_handler_cind_test_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_cmer_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_cmer_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_cmer_set_cb	src/rfcomm.c	?^static int rfcomm_handler_cmer_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_iphoneaccev_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_iphoneaccev_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_iphoneaccev_set_cb	src/rfcomm.c	?^static int rfcomm_handler_iphoneaccev_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_resp_bcs_ok_cb	src/rfcomm.c	?^static int rfcomm_handler_resp_bcs_ok_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_resp_ok	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_resp_ok = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_resp_ok_cb	src/rfcomm.c	?^static int rfcomm_handler_resp_ok_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_vgm_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_vgm_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_vgm_set_cb	src/rfcomm.c	?^static int rfcomm_handler_vgm_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_vgs_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_vgs_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_vgs_set_cb	src/rfcomm.c	?^static int rfcomm_handler_vgs_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_handler_xapl_set	src/rfcomm.c	?^static const struct rfcomm_handler rfcomm_handler_xapl_set = {$?;"	v	typeref:struct:rfcomm_handler	file:
+rfcomm_handler_xapl_set_cb	src/rfcomm.c	?^static int rfcomm_handler_xapl_set_cb(struct rfcomm_conn *c, const struct bt_at *at) {$?;"	f	file:
+rfcomm_read_at	src/rfcomm.c	?^static int rfcomm_read_at(int fd, struct at_reader *reader) {$?;"	f	file:
+rfcomm_set_hfp_state	src/rfcomm.c	?^static void rfcomm_set_hfp_state(struct rfcomm_conn *c, enum hfp_state state) {$?;"	f	file:
+rfcomm_thread	src/rfcomm.c	?^void *rfcomm_thread(void *arg) {$?;"	f
+rfcomm_write_at	src/rfcomm.c	?^static int rfcomm_write_at(int fd, enum bt_at_type type, const char *command,$?;"	f	file:
+rtp_header	src/a2dp-rtp.h	?^typedef struct rtp_header {$?;"	s
+rtp_header_t	src/a2dp-rtp.h	?^} __attribute__ ((packed)) rtp_header_t;$?;"	t	typeref:struct:rtp_header
+rtp_media_header	src/a2dp-rtp.h	?^typedef struct rtp_media_header {$?;"	s
+rtp_media_header_t	src/a2dp-rtp.h	?^} __attribute__ ((packed)) rtp_media_header_t;$?;"	t	typeref:struct:rtp_media_header
+sampling	src/shared/ctl-proto.h	?^	uint16_t sampling;$?;"	m	struct:ba_msg_transport
+sco	src/transport.h	?^			struct ba_transport *sco;$?;"	m	struct:ba_transport::__anon17::__anon19	typeref:struct:ba_transport::__anon17::__anon19::ba_transport
+sco	src/transport.h	?^		} sco;$?;"	m	union:ba_transport::__anon17	typeref:struct:ba_transport::__anon17::__anon20
+seq_number	src/a2dp-rtp.h	?^	uint16_t seq_number;$?;"	m	struct:rtp_header
+set_hw_params	test/test-pcm.c	?^static int set_hw_params(snd_pcm_t *pcm, int channels, int rate,$?;"	f	file:
+set_sw_params	test/test-pcm.c	?^static int set_sw_params(snd_pcm_t *pcm, snd_pcm_uframes_t buffer_size, snd_pcm_uframes_t period_size) {$?;"	f	file:
+sig_fd	src/transport.h	?^	int sig_fd[2];$?;"	m	struct:ba_transport
+size	src/shared/ffb.h	?^	size_t size;$?;"	m	struct:__anon23
+size	src/shared/ffb.h	?^	size_t size;$?;"	m	struct:__anon24
+snd_pcm_open_bluealsa	test/test-pcm.c	?^static int snd_pcm_open_bluealsa(snd_pcm_t **pcmp, snd_pcm_stream_t stream, int mode) {$?;"	f	file:
+snd_pcm_scale_s16le	src/utils.c	?^void snd_pcm_scale_s16le(int16_t *buffer, size_t size, int channels,$?;"	f
+socket_created	src/bluealsa.h	?^		bool socket_created;$?;"	m	struct:ba_config::__anon26
+spk_gain	src/rfcomm.h	?^	uint8_t spk_gain;$?;"	m	struct:rfcomm_conn
+spk_gain	src/transport.h	?^			uint8_t spk_gain;$?;"	m	struct:ba_transport::__anon17::__anon20
+spk_muted	src/transport.h	?^			bool spk_muted;$?;"	m	struct:ba_transport::__anon17::__anon20
+spk_pcm	src/transport.h	?^			struct ba_pcm spk_pcm;$?;"	m	struct:ba_transport::__anon17::__anon20	typeref:struct:ba_transport::__anon17::__anon20::ba_pcm
+sprint_hci_flags	utils/hcitop.c	?^static void sprint_hci_flags(char *str, unsigned int flags) {$?;"	f	file:
+ssrc	src/a2dp-rtp.h	?^	uint32_t ssrc;$?;"	m	struct:rtp_header
+state	src/rfcomm.h	?^	enum hfp_state state;$?;"	m	struct:rfcomm_conn	typeref:enum:rfcomm_conn::hfp_state
+state	src/transport.h	?^	enum ba_transport_state state;$?;"	m	struct:ba_transport	typeref:enum:ba_transport::ba_transport_state
+state_prev	src/rfcomm.h	?^	enum hfp_state state_prev;$?;"	m	struct:rfcomm_conn	typeref:enum:rfcomm_conn::hfp_state
+stream	src/shared/ctl-proto.h	?^	enum ba_pcm_stream stream;$?;"	m	struct:ba_msg_transport	typeref:enum:ba_msg_transport::ba_pcm_stream
+stream	src/shared/ctl-proto.h	?^	enum ba_pcm_stream stream;$?;"	m	struct:ba_request	typeref:enum:ba_request::ba_pcm_stream
+strtrim	utils/rfcomm.c	?^static char *strtrim(char *str) {$?;"	f	file:
+subbands	src/a2dp-codecs.h	?^	uint8_t subbands:2;$?;"	m	struct:__anon3
+subbands	src/a2dp-codecs.h	?^	uint8_t subbands:2;$?;"	m	struct:__anon9
+subs	src/bluealsa.h	?^		enum ba_event subs[BLUEALSA_MAX_CLIENTS];$?;"	m	struct:ba_config::__anon26	typeref:enum:ba_config::__anon26::ba_event
+t	src/rfcomm.h	?^	struct ba_transport *t;$?;"	m	struct:rfcomm_conn	typeref:struct:rfcomm_conn::ba_transport
+tail	src/shared/ffb.h	?^	int16_t *tail;$?;"	m	struct:__anon24
+tail	src/shared/ffb.h	?^	uint8_t *tail;$?;"	m	struct:__anon23
+test_a2dp_aac	test/test-io.c	?^int test_a2dp_aac(void) {$?;"	f
+test_a2dp_aptx	test/test-io.c	?^int test_a2dp_aptx(void) {$?;"	f
+test_a2dp_bt_data	test/test-io.c	?^} test_a2dp_bt_data[10];$?;"	v	typeref:struct:__anon1	file:
+test_a2dp_decoding	test/test-io.c	?^static int test_a2dp_decoding(struct ba_transport *t, void *(*cb)(void *)) {$?;"	f	file:
+test_a2dp_encoding	test/test-io.c	?^static int test_a2dp_encoding(struct ba_transport *t, void *(*cb)(void *)) {$?;"	f	file:
+test_a2dp_sbc	test/test-io.c	?^int test_a2dp_sbc(void) {$?;"	f
+test_a2dp_sbc_invalid_setup	test/test-io.c	?^int test_a2dp_sbc_invalid_setup(void) {$?;"	f
+test_capture	test/test-pcm.c	?^int test_capture(void) {$?;"	f
+test_dbus_profile_object_path	test/test-utils.c	?^int test_dbus_profile_object_path(void) {$?;"	f
+test_difftimespec	test/test-utils.c	?^int test_difftimespec(void) {$?;"	f
+test_fifo_buffer	test/test-utils.c	?^int test_fifo_buffer(void) {$?;"	f
+test_pcm_scale_s16le	test/test-utils.c	?^int test_pcm_scale_s16le(void) {$?;"	f
+test_pcm_setup_free	test/server-mock.c	?^static void test_pcm_setup_free(void) {$?;"	f	file:
+test_pcm_setup_free_handler	test/server-mock.c	?^static void test_pcm_setup_free_handler(int sig) {$?;"	f	file:
+test_playback	test/test-pcm.c	?^int test_playback(void) {$?;"	f
+test_playback_hw_constraints	test/test-pcm.c	?^int test_playback_hw_constraints(void) {$?;"	f
+test_playback_termination	test/test-pcm.c	?^int test_playback_termination(void) {$?;"	f
+thread	src/bluealsa.h	?^		pthread_t thread;$?;"	m	struct:ba_config::__anon26
+thread	src/transport.h	?^	pthread_t thread;$?;"	m	struct:ba_transport
+thread	utils/aplay.c	?^	pthread_t thread;$?;"	m	struct:pcm_worker	file:
+thread_created	src/bluealsa.h	?^		bool thread_created;$?;"	m	struct:ba_config::__anon26
+timestamp	src/a2dp-rtp.h	?^	uint32_t timestamp;$?;"	m	struct:rtp_header
+transport	src/asound/bluealsa-ctl.c	?^	struct ba_msg_transport *transport;$?;"	m	struct:ctl_elem	typeref:struct:ctl_elem::ba_msg_transport	file:
+transport	src/asound/bluealsa-pcm.c	?^	struct ba_msg_transport transport;$?;"	m	struct:bluealsa_pcm	typeref:struct:bluealsa_pcm::ba_msg_transport	file:
+transport	utils/aplay.c	?^	struct ba_msg_transport transport;$?;"	m	struct:pcm_worker	typeref:struct:pcm_worker::ba_msg_transport	file:
+transport_acquire_bt_a2dp	src/transport.c	?^int transport_acquire_bt_a2dp(struct ba_transport *t) {$?;"	f
+transport_acquire_bt_a2dp	test/server-mock.c	34;"	d	file:
+transport_acquire_bt_a2dp	test/server-mock.c	36;"	d	file:
+transport_acquire_bt_a2dp	test/server-mock.c	?^int transport_acquire_bt_a2dp(struct ba_transport *t) {$?;"	f
+transport_acquire_bt_sco	src/transport.c	?^int transport_acquire_bt_sco(struct ba_transport *t) {$?;"	f
+transport_drain_pcm	src/transport.c	?^int transport_drain_pcm(struct ba_transport *t) {$?;"	f
+transport_free	src/transport.c	?^void transport_free(struct ba_transport *t) {$?;"	f
+transport_get_channels	src/transport.c	?^unsigned int transport_get_channels(const struct ba_transport *t) {$?;"	f
+transport_get_sampling	src/transport.c	?^unsigned int transport_get_sampling(const struct ba_transport *t) {$?;"	f
+transport_lookup	src/transport.c	?^struct ba_transport *transport_lookup(GHashTable *devices, const char *dbus_path) {$?;"	f
+transport_lookup_pcm_client	src/transport.c	?^struct ba_transport *transport_lookup_pcm_client(GHashTable *devices, int client) {$?;"	f
+transport_new	src/transport.c	?^struct ba_transport *transport_new($?;"	f
+transport_new_a2dp	src/transport.c	?^struct ba_transport *transport_new_a2dp($?;"	f
+transport_new_rfcomm	src/transport.c	?^struct ba_transport *transport_new_rfcomm($?;"	f
+transport_pthread_cancel	src/transport.c	?^void transport_pthread_cancel(pthread_t thread) {$?;"	f
+transport_pthread_cleanup	src/transport.c	?^void transport_pthread_cleanup(void *arg) {$?;"	f
+transport_release_bt_a2dp	src/transport.c	?^int transport_release_bt_a2dp(struct ba_transport *t) {$?;"	f
+transport_release_bt_rfcomm	src/transport.c	?^int transport_release_bt_rfcomm(struct ba_transport *t) {$?;"	f
+transport_release_bt_sco	src/transport.c	?^int transport_release_bt_sco(struct ba_transport *t) {$?;"	f
+transport_release_pcm	src/transport.c	?^int transport_release_pcm(struct ba_pcm *pcm) {$?;"	f
+transport_remove	src/transport.c	?^bool transport_remove(GHashTable *devices, const char *dbus_path) {$?;"	f
+transport_send_rfcomm	src/transport.c	?^int transport_send_rfcomm(struct ba_transport *t, const char command[32]) {$?;"	f
+transport_send_signal	src/transport.c	?^int transport_send_signal(struct ba_transport *t, enum ba_transport_signal sig) {$?;"	f
+transport_set_state	src/transport.c	?^int transport_set_state(struct ba_transport *t, enum ba_transport_state state) {$?;"	f
+transport_set_state_from_string	src/transport.c	?^int transport_set_state_from_string(struct ba_transport *t, const char *state) {$?;"	f
+transport_set_volume	src/transport.c	?^int transport_set_volume(struct ba_transport *t, uint8_t ch1_muted, uint8_t ch2_muted,$?;"	f
+transports	src/asound/bluealsa-ctl.c	?^	struct ba_msg_transport *transports;$?;"	m	struct:bluealsa_ctl	typeref:struct:bluealsa_ctl::ba_msg_transport	file:
+transports	src/transport.h	?^	GHashTable *transports;$?;"	m	struct:ba_device
+transports_count	src/asound/bluealsa-ctl.c	?^	size_t transports_count;$?;"	m	struct:bluealsa_ctl	file:
+ts	src/shared/rt.h	?^	struct timespec ts;$?;"	m	struct:asrsync	typeref:struct:asrsync::timespec
+ts0	src/shared/rt.h	?^	struct timespec ts0;$?;"	m	struct:asrsync	typeref:struct:asrsync::timespec
+ts_busy	src/shared/rt.h	?^	struct timespec ts_busy;$?;"	m	struct:asrsync	typeref:struct:asrsync::timespec
+ts_idle	src/shared/rt.h	?^	struct timespec ts_idle;$?;"	m	struct:asrsync	typeref:struct:asrsync::timespec
+type	src/asound/bluealsa-ctl.c	?^	enum ctl_elem_type type;$?;"	m	struct:ctl_elem	typeref:enum:ctl_elem::ctl_elem_type	file:
+type	src/at.h	?^	enum bt_at_type type;$?;"	m	struct:bt_at	typeref:enum:bt_at::bt_at_type
+type	src/rfcomm.h	?^	enum bt_at_type type;$?;"	m	struct:rfcomm_handler	typeref:enum:rfcomm_handler::bt_at_type
+type	src/shared/ctl-proto.h	?^	enum ba_pcm_type type;$?;"	m	struct:ba_msg_transport	typeref:enum:ba_msg_transport::ba_pcm_type
+type	src/shared/ctl-proto.h	?^	enum ba_pcm_type type;$?;"	m	struct:ba_request	typeref:enum:ba_request::ba_pcm_type
+type	src/transport.h	?^	enum ba_transport_type type;$?;"	m	struct:ba_transport	typeref:enum:ba_transport::ba_transport_type
+updates	src/asound/bluealsa-ctl.c	?^	struct ctl_elem_update *updates;$?;"	m	struct:bluealsa_ctl	typeref:struct:bluealsa_ctl::ctl_elem_update	file:
+updates_count	src/asound/bluealsa-ctl.c	?^	size_t updates_count;$?;"	m	struct:bluealsa_ctl	file:
+value	src/at.h	?^	char *value;$?;"	m	struct:bt_at
+vbr	src/a2dp-codecs.h	?^	uint8_t vbr:1;$?;"	m	struct:__anon11
+vbr	src/a2dp-codecs.h	?^	uint8_t vbr:1;$?;"	m	struct:__anon5
+vendor_id	src/a2dp-codecs.h	?^	uint32_t vendor_id;$?;"	m	struct:__anon2
+vendor_id	src/transport.h	?^		uint16_t vendor_id;$?;"	m	struct:ba_device::__anon16
+verbose	utils/aplay.c	?^static unsigned int verbose = 0;$?;"	v	file:
+version	src/a2dp-rtp.h	?^	uint16_t version:2;$?;"	m	struct:rtp_header
+version	src/transport.h	?^		uint16_t version;$?;"	m	struct:ba_device::__anon16
+vlog	src/shared/log.c	?^static void vlog(int priority, const char *format, va_list ap) {$?;"	f	file:
+volume	src/bluealsa.h	?^		bool volume;$?;"	m	struct:ba_config::__anon28
+warn	src/shared/log.c	?^void warn(const char *format, ...) {$?;"	f
+workers	utils/aplay.c	?^static struct pcm_worker *workers = NULL;$?;"	v	typeref:struct:pcm_worker	file:
+workers_count	utils/aplay.c	?^static size_t workers_count = 0;$?;"	v	file:
+workers_lock	utils/aplay.c	?^static pthread_rwlock_t workers_lock = PTHREAD_RWLOCK_INITIALIZER;$?;"	v	file:
+workers_size	utils/aplay.c	?^static size_t workers_size = 0;$?;"	v	file:
+xapl	src/transport.h	?^	} xapl;$?;"	m	struct:ba_device	typeref:struct:ba_device::__anon16
